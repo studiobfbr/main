@@ -1,5 +1,5 @@
 # Brief — Trattoria del Rosso (Bologna)
-- ID (slug): ristorante-bologna-trattoria-del-rosso
+- ID (codice): RI0000001BO
 - Categoria: ristorante · Città: Bologna
 - Indirizzo: Via Augusto Righi 30, 40126 Bologna · Tel: 051 236730
 - Sito attuale: www.trattoriadelrosso.com  → ESISTE ma da modernizzare (mobile, foto, menù online)

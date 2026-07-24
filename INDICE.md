@@ -1,6 +1,6 @@
 # INDICE siti — generato da PIPELINE.xlsx (sola lettura)
-Aggiornato automaticamente da Claude. NON modificare a mano: le fasi si cambiano nell'Excel.
+Aggiornato da Claude. Le fasi si cambiano nell'Excel, non qui. Schema codici: vedi CODICI.md.
 
-| Slug | Categoria | Stato | Online | Link |
-|------|-----------|-------|--------|------|
-| ristorante-torino-trattoria-esempio | ristorante | in_attesa_approvazione | si | https://ristorante-torino-trattoria-esempio.netlify.app |
+| Codice | Attività | Categoria | Città | Stato | Cartella |
+|--------|----------|-----------|-------|-------|----------|
+| RI0000001BO | Trattoria del Rosso | ristorante | Bologna | in_attesa_approvazione | siti/ristoranti/RI0000001BO |

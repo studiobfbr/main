@@ -1,6 +1,6 @@
 # LIVELLO 3 — override singolo sito
 cliente:
-  id: "ristorante-bologna-trattoria-del-rosso"
+  id: "RI0000001BO"
   nome_attivita: "Trattoria del Rosso"
   categoria: "ristorante"
   citta: "Bologna"
