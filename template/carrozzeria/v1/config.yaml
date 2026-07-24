@@ -1,0 +1,6 @@
+# LIVELLO 2 — modello categoria: carrozzeria (v1)
+modello:
+  categoria: "carrozzeria"
+  variante: "v1"
+foto:
+  stile: "coerente con la categoria"

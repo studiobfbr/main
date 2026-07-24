@@ -1,0 +1,6 @@
+# LIVELLO 2 — modello categoria: ristorante (v1)
+modello:
+  categoria: "ristorante"
+  variante: "v1"
+foto:
+  stile: "coerente con la categoria"

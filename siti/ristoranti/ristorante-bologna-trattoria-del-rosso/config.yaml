@@ -1,0 +1,12 @@
+# LIVELLO 3 — override singolo sito
+cliente:
+  id: "ristorante-bologna-trattoria-del-rosso"
+  nome_attivita: "Trattoria del Rosso"
+  categoria: "ristorante"
+  citta: "Bologna"
+  usa_modello: "ristorante/v1"
+  email_contatto: "DA TROVARE/VERIFICARE"   # non pubblica: da form sito o social
+override_stile:
+  colore_primario: "#7a1220"
+testi:
+  slogan: "La cucina bolognese di una volta, dal cuore di Bologna"

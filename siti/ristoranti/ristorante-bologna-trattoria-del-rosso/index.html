@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Trattoria del Rosso — Cucina bolognese dal cuore di Bologna</title>
+<meta name="description" content="Trattoria del Rosso, Via Righi 30 Bologna. Tortellini in brodo, tagliatelle al ragù, cotoletta alla bolognese. Pasta fatta a mano, porzioni abbondanti, Lambrusco."/>
+<link rel="preconnect" href="https://fonts.googleapis.com"/>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet"/>
+<style>
+:root{--primario:#7a1220;--secondario:#d4a017;--sfondo:#fffdf8;--testo:#2a2320;
+--font-titoli:'Playfair Display',serif;--font-testo:'Inter',sans-serif}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:var(--font-testo);color:var(--testo);background:var(--sfondo);line-height:1.6}
+h1,h2,h3{font-family:var(--font-titoli)}
+.wrap{max-width:1080px;margin:0 auto;padding:0 24px}
+header{position:sticky;top:0;background:rgba(255,253,248,.96);backdrop-filter:blur(6px);border-bottom:1px solid #eee;z-index:10}
+.nav{display:flex;justify-content:space-between;align-items:center;padding:15px 24px;max-width:1080px;margin:0 auto}
+.logo{font-family:var(--font-titoli);font-weight:700;font-size:1.25rem;color:var(--primario)}
+.nav a{margin-left:20px;text-decoration:none;font-size:.93rem;color:var(--testo)}
+.btn{background:var(--primario);color:#fff;padding:11px 20px;border-radius:8px;text-decoration:none;display:inline-block;font-weight:600}
+.btn.gold{background:var(--secondario);color:#2a2320}
+.hero{position:relative;min-height:72vh;display:flex;align-items:center;justify-content:center;text-align:center;color:#fff;
+background:linear-gradient(rgba(35,15,12,.58),rgba(35,15,12,.58)),url('https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=1600&q=70') center/cover}
+.hero .tag{letter-spacing:3px;text-transform:uppercase;font-size:.8rem;opacity:.9;margin-bottom:14px}
+.hero h1{font-size:clamp(2.2rem,5vw,4rem);margin-bottom:14px;max-width:800px}
+.hero p{font-size:1.15rem;margin-bottom:26px;opacity:.95}
+section{padding:70px 0}
+section h2{font-size:2rem;color:var(--primario);margin-bottom:8px;text-align:center}
+.sub{text-align:center;color:#7a6f66;margin-bottom:34px}
+.chi{display:grid;grid-template-columns:1.1fr 1fr;gap:44px;align-items:center}
+.chi img{width:100%;border-radius:12px;height:360px;object-fit:cover}
+.menu-grid{display:grid;grid-template-columns:1fr 1fr;gap:14px 40px}
+.piatto{border-bottom:1px dashed #ddd;padding:12px 0;display:flex;justify-content:space-between;gap:16px}
+.piatto b{font-weight:600}.piatto small{color:#7a6f66;display:block;font-weight:400}
+.piatto span{color:var(--primario);font-weight:700;white-space:nowrap}
+.galleria{display:grid;grid-template-columns:repeat(3,1fr);gap:12px}
+.galleria img{width:100%;height:210px;object-fit:cover;border-radius:10px}
+.info{display:grid;grid-template-columns:1fr 1fr;gap:40px}
+.info .box{background:#fff;border:1px solid #eee;border-radius:12px;padding:26px}
+.info h3{color:var(--primario);margin-bottom:12px}
+.info .row{display:flex;justify-content:space-between;padding:7px 0;border-bottom:1px solid #f0ece5}
+.cta{background:var(--primario);color:#fff;text-align:center}
+.cta h2{color:#fff}
+footer{background:#231b18;color:#c9bfb6;padding:34px 0;text-align:center;font-size:.9rem}
+.badge{display:inline-block;background:rgba(212,160,23,.18);color:#8a6a10;padding:4px 12px;border-radius:20px;font-size:.8rem;font-weight:600;margin-top:14px}
+@media(max-width:760px){.chi,.menu-grid,.info{grid-template-columns:1fr}.galleria{grid-template-columns:1fr 1fr}.nav a:not(.btn){display:none}}
+</style>
+</head>
+<body>
+<header><div class="nav">
+<div class="logo">Trattoria del Rosso</div>
+<nav>
+<a href="#storia">Storia</a><a href="#menu">Menù</a><a href="#galleria">Galleria</a>
+<a href="#contatti">Contatti</a><a class="btn" href="tel:+39051236730">Prenota</a>
+</nav></div></header>
+
+<div class="hero"><div class="wrap">
+<div class="tag">Bologna · dal cuore della città</div>
+<h1>La cucina bolognese di una volta</h1>
+<p>Pasta fatta a mano, porzioni abbondanti e Lambrusco — come una volta.</p>
+<a class="btn gold" href="tel:+39051236730">Chiama e prenota · 051 236730</a>
+<div class="badge">Menù del giorno a 10€ · pranzo lun–ven</div>
+</div></div>
+
+<section id="storia"><div class="wrap chi">
+<img src="https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?w=800&q=70" alt="Interno della trattoria"/>
+<div>
+<h2 style="text-align:left">Una storia di sfoglia e ragù</h2>
+<p style="margin-top:10px">Da generazioni la Trattoria del Rosso porta in tavola la vera cucina bolognese:
+ricette della nonna, sfoglia tirata a mano e l'atmosfera informale di una trattoria autentica,
+a due passi dal centro. Porzioni generose, prezzi onesti e tanto Lambrusco.</p>
+</div>
+</div></section>
+
+<section id="menu" style="background:#fff"><div class="wrap">
+<h2>Il menù</h2><p class="sub">I classici della tradizione emiliana</p>
+<div class="menu-grid">
+<div class="piatto"><div><b>Tortellini in brodo</b><small>il primo della domenica bolognese</small></div><span>12€</span></div>
+<div class="piatto"><div><b>Tagliatelle al ragù</b><small>sfoglia tirata a mano</small></div><span>10€</span></div>
+<div class="piatto"><div><b>Lasagne verdi</b><small>al forno, alla bolognese</small></div><span>10€</span></div>
+<div class="piatto"><div><b>Gramigna alla salsiccia</b><small>cremosa e saporita</small></div><span>10€</span></div>
+<div class="piatto"><div><b>Gnocchi al ragù</b><small>fatti in casa</small></div><span>9€</span></div>
+<div class="piatto"><div><b>Cotoletta alla bolognese</b><small>con prosciutto e parmigiano</small></div><span>14€</span></div>
+</div>
+</div></section>
+
+<section id="galleria"><div class="wrap">
+<h2>In tavola</h2><p class="sub">Un assaggio della trattoria</p>
+<div class="galleria">
+<img src="https://images.unsplash.com/photo-1621996346565-e3dbc353d2e5?w=600&q=70" alt="Pasta fresca"/>
+<img src="https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=600&q=70" alt="Piatto della tradizione"/>
+<img src="https://images.unsplash.com/photo-1544025162-d76694265947?w=600&q=70" alt="Tavola conviviale"/>
+</div>
+</div></section>
+
+<section id="contatti" style="background:#fff"><div class="wrap">
+<h2>Dove siamo</h2><p class="sub">Via Augusto Righi 30, Bologna</p>
+<div class="info">
+<div class="box"><h3>Orari</h3>
+<div class="row"><span>Tutti i giorni</span><span>12:00–15:00</span></div>
+<div class="row"><span></span><span>19:00–23:00</span></div>
+<div class="row"><span>Menù pranzo lun–ven</span><span>10€</span></div>
+</div>
+<div class="box"><h3>Contatti</h3>
+<div class="row"><span>Telefono</span><span>051 236730</span></div>
+<div class="row"><span>Indirizzo</span><span>Via A. Righi 30, Bologna</span></div>
+<div class="row"><span>Prenotazioni</span><span>consigliate</span></div>
+<a class="btn" style="margin-top:16px" href="tel:+39051236730">Chiama ora</a>
+</div>
+</div>
+</div></section>
+
+<section class="cta"><div class="wrap">
+<h2>Ti aspettiamo a tavola</h2>
+<p style="margin:12px 0 24px">Prenota il tuo tavolo, ti rispondiamo subito.</p>
+<a class="btn gold" href="tel:+39051236730">Chiama · 051 236730</a>
+</div></section>
+
+<footer><div class="wrap">
+Trattoria del Rosso · Via Augusto Righi 30, 40126 Bologna · Tel. 051 236730<br/>
+Sito demo realizzato da Studio BFBR — 2026
+</div></footer>
+</body>
+</html>

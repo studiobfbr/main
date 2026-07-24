@@ -1,0 +1,11 @@
+# originali pesanti: stanno su Drive, MAI su Git
+**/media-originali/
+*.psd *.raw *.CR2 *.NEF
+# build/sistema
+node_modules/
+.DS_Store
+Thumbs.db
+*.log
+
+# ERP: vive su Drive
+PIPELINE.xlsx

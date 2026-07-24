@@ -1,0 +1,6 @@
+# LIVELLO 2 — modello categoria: studio-legale (v1)
+modello:
+  categoria: "studio-legale"
+  variante: "v1"
+foto:
+  stile: "coerente con la categoria"

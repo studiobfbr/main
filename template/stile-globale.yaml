@@ -1,0 +1,11 @@
+# LIVELLO 1 — stile globale (default per tutti i modelli)
+brand:
+  colore_primario:   "#1f3a5f"
+  colore_secondario: "#e8b04b"
+  colore_sfondo:     "#ffffff"
+  colore_testo:      "#222222"
+tipografia:
+  font_titoli: "Poppins"
+  font_testo:  "Inter"
+foto:
+  stile: "luminose, naturali, alta qualita"

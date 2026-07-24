@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Trattoria da Esempio — Cucina piemontese dal 1985</title>
+  <!--
+    TEMPLATE: ristorante / v1
+    Colori/font/testi vengono riempiti dal generatore leggendo i config:
+    stile-globale.yaml (L1) -> modello config.yaml (L2) -> cliente config.yaml (L3).
+    Qui sono precompilati con l'esempio per anteprima.
+  -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Inter:wght@400;500&display=swap" rel="stylesheet" />
+  <style>
+    :root{
+      --primario:#5c1a1a; --secondario:#d4a017;
+      --sfondo:#fffdf8; --testo:#2a2320;
+      --font-titoli:'Playfair Display',serif; --font-testo:'Inter',sans-serif;
+    }
+    *{box-sizing:border-box;margin:0;padding:0}
+    body{font-family:var(--font-testo);color:var(--testo);background:var(--sfondo);line-height:1.6}
+    h1,h2,h3{font-family:var(--font-titoli)}
+    .wrap{max-width:1100px;margin:0 auto;padding:0 24px}
+    header{position:sticky;top:0;background:rgba(255,253,248,.95);backdrop-filter:blur(6px);border-bottom:1px solid #eee;z-index:10}
+    .nav{display:flex;justify-content:space-between;align-items:center;padding:16px 24px;max-width:1100px;margin:0 auto}
+    .logo{font-family:var(--font-titoli);font-weight:700;font-size:1.3rem;color:var(--primario)}
+    .nav a{margin-left:22px;text-decoration:none;font-size:.95rem}
+    .btn{background:var(--primario);color:#fff;padding:12px 22px;border-radius:8px;text-decoration:none;display:inline-block;font-weight:500}
+    .btn.gold{background:var(--secondario);color:#2a2320}
+    .hero{position:relative;min-height:70vh;display:flex;align-items:center;justify-content:center;text-align:center;color:#fff;
+      background:linear-gradient(rgba(40,20,15,.55),rgba(40,20,15,.55)),url('https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=1600&q=70') center/cover}
+    .hero h1{font-size:clamp(2.2rem,5vw,4rem);margin-bottom:12px}
+    .hero p{font-size:1.2rem;margin-bottom:28px;opacity:.95}
+    section{padding:72px 0}
+    section h2{font-size:2rem;color:var(--primario);margin-bottom:24px;text-align:center}
+    .chi{display:grid;grid-template-columns:1fr 1fr;gap:40px;align-items:center}
+    .chi img{width:100%;border-radius:12px}
+    .menu-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:20px}
+    .piatto{border-bottom:1px dashed #ddd;padding:12px 0;display:flex;justify-content:space-between}
+    .piatto span{color:var(--secondario);font-weight:600}
+    .galleria{display:grid;grid-template-columns:repeat(3,1fr);gap:12px}
+    .galleria img{width:100%;height:200px;object-fit:cover;border-radius:10px}
+    .orari{max-width:520px;margin:0 auto;text-align:center}
+    .orari div{display:flex;justify-content:space-between;padding:8px 0;border-bottom:1px solid #eee}
+    .cta{background:var(--primario);color:#fff;text-align:center}
+    .cta h2{color:#fff}
+    footer{background:#2a2320;color:#cfc6bd;padding:36px 0;text-align:center;font-size:.9rem}
+    @media(max-width:760px){.chi,.menu-grid{grid-template-columns:1fr}.galleria{grid-template-columns:1fr 1fr}.nav a{display:none}.nav .btn{display:inline-block}}
+  </style>
+</head>
+<body>
+  <header>
+    <div class="nav">
+      <div class="logo">Trattoria da Esempio</div>
+      <nav>
+        <a href="#menu">Menu</a>
+        <a href="#galleria">Galleria</a>
+        <a href="#orari">Orari</a>
+        <a class="btn" href="#prenota">Prenota</a>
+      </nav>
+    </div>
+  </header>
+
+  <div class="hero">
+    <div class="wrap">
+      <h1>Cucina piemontese dal 1985</h1>
+      <p>Piatti della tradizione con ingredienti del territorio</p>
+      <a class="btn gold" href="#prenota">Prenota un tavolo</a>
+    </div>
+  </div>
+
+  <section id="chi">
+    <div class="wrap chi">
+      <img src="https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?w=800&q=70" alt="Interno del ristorante" />
+      <div>
+        <h2 style="text-align:left">Chi siamo</h2>
+        <p>Da tre generazioni portiamo in tavola i sapori autentici del Piemonte.
+        Ambiente accogliente, materie prime selezionate e una carta dei vini del territorio.</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="menu" style="background:#fff">
+    <div class="wrap">
+      <h2>Il menu</h2>
+      <div class="menu-grid">
+        <div class="piatto"><div>Vitello tonnato</div><span>12 euro</span></div>
+        <div class="piatto"><div>Agnolotti del plin</div><span>14 euro</span></div>
+        <div class="piatto"><div>Brasato al Barolo</div><span>18 euro</span></div>
+        <div class="piatto"><div>Bonet</div><span>7 euro</span></div>
+      </div>
+    </div>
+  </section>
+
+  <section id="galleria">
+    <div class="wrap">
+      <h2>Galleria</h2>
+      <div class="galleria">
+        <img src="https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=500&q=70" alt="Piatto 1" />
+        <img src="https://images.unsplash.com/photo-1473093295043-cdd812d0e601?w=500&q=70" alt="Piatto 2" />
+        <img src="https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=500&q=70" alt="Piatto 3" />
+      </div>
+    </div>
+  </section>
+
+  <section id="orari" style="background:#fff">
+    <div class="wrap orari">
+      <h2>Orari</h2>
+      <div><span>Lun - Ven</span><span>12:00-14:30 · 19:00-23:00</span></div>
+      <div><span>Sabato</span><span>19:00-23:30</span></div>
+      <div><span>Domenica</span><span>12:00-15:00</span></div>
+    </div>
+  </section>
+
+  <section id="prenota" class="cta">
+    <div class="wrap">
+      <h2>Prenota il tuo tavolo</h2>
+      <p style="margin-bottom:24px">Chiamaci o scrivici, ti rispondiamo subito.</p>
+      <a class="btn gold" href="tel:+390110000000">Chiama 011 000 0000</a>
+      <a class="btn gold" href="mailto:info@trattoriaesempio.it" style="margin-left:10px">Scrivici</a>
+    </div>
+  </section>
+
+  <footer>
+    <div class="wrap">
+      Trattoria da Esempio · Via Roma 1, Torino · P.IVA 00000000000<br/>
+      Sito realizzato come demo — 2026
+    </div>
+  </footer>
+</body>
+</html>
