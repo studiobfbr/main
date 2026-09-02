@@ -1,0 +1,10 @@
+cliente:
+  id: "CAR000001MB"
+  nome_attivita: "Carrozzeria Vera Car"
+  categoria: "carrozzeria"
+  citta: "Seregno"
+  provincia: "MB"
+  indirizzo: "Via Ticino, 39, 20831 Seregno"
+  telefono: ""
+  sito_originale: ""
+  stato: "demo_prospect"

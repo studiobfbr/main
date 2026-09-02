@@ -1,0 +1,10 @@
+cliente:
+  id: "EST000001MB"
+  nome_attivita: "Centro Viviane"
+  categoria: "estetista"
+  citta: "Monza"
+  provincia: "MB"
+  indirizzo: "Via Alessandro Volta, 11, 20900 Monza"
+  telefono: "039 3900528"
+  sito_originale: ""
+  stato: "demo_prospect"

@@ -1,0 +1,10 @@
+cliente:
+  id: "CAR000010MB"
+  nome_attivita: "Carrozzeria Rigamonti"
+  categoria: "carrozzeria"
+  citta: "Seregno"
+  provincia: "MB"
+  indirizzo: "Via Archimede, 12, 20831 Seregno"
+  telefono: ""
+  sito_originale: ""
+  stato: "demo_prospect"

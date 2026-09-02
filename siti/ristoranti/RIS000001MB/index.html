@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Osteria della Brianza — Cucina brianzola a Monza</title>
+<meta name="description" content="Osteria della Brianza, Monza. Cassoeula, risotto alla monzese con luganega, rostin negaa. Cucina lombarda di tradizione, ambiente accogliente."/>
+<link rel="preconnect" href="https://fonts.googleapis.com"/>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet"/>
+<style>
+:root{--primario:#1f5133;--secondario:#c8a24a;--sfondo:#fbfdf9;--testo:#232a24;
+--font-titoli:'Playfair Display',serif;--font-testo:'Inter',sans-serif}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:var(--font-testo);color:var(--testo);background:var(--sfondo);line-height:1.6}
+h1,h2,h3{font-family:var(--font-titoli)}
+.wrap{max-width:1080px;margin:0 auto;padding:0 24px}
+header{position:sticky;top:0;background:rgba(251,253,249,.96);backdrop-filter:blur(6px);border-bottom:1px solid #e8ece6;z-index:10}
+.nav{display:flex;justify-content:space-between;align-items:center;padding:15px 24px;max-width:1080px;margin:0 auto}
+.logo{font-family:var(--font-titoli);font-weight:700;font-size:1.25rem;color:var(--primario)}
+.nav a{margin-left:20px;text-decoration:none;font-size:.93rem;color:var(--testo)}
+.btn{background:var(--primario);color:#fff;padding:11px 20px;border-radius:8px;text-decoration:none;display:inline-block;font-weight:600}
+.btn.gold{background:var(--secondario);color:#232a24}
+.hero{position:relative;min-height:72vh;display:flex;align-items:center;justify-content:center;text-align:center;color:#fff;
+background:linear-gradient(rgba(18,30,20,.58),rgba(18,30,20,.58)),url('https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=1600&q=70') center/cover}
+.hero .tag{letter-spacing:3px;text-transform:uppercase;font-size:.8rem;opacity:.9;margin-bottom:14px}
+.hero h1{font-size:clamp(2.2rem,5vw,4rem);margin-bottom:14px;max-width:800px}
+.hero p{font-size:1.15rem;margin-bottom:26px;opacity:.95}
+section{padding:70px 0}
+section h2{font-size:2rem;color:var(--primario);margin-bottom:8px;text-align:center}
+.sub{text-align:center;color:#6f766c;margin-bottom:34px}
+.chi{display:grid;grid-template-columns:1.1fr 1fr;gap:44px;align-items:center}
+.chi img{width:100%;border-radius:12px;height:360px;object-fit:cover}
+.menu-grid{display:grid;grid-template-columns:1fr 1fr;gap:14px 40px}
+.piatto{border-bottom:1px dashed #dce0d6;padding:12px 0;display:flex;justify-content:space-between;gap:16px}
+.piatto b{font-weight:600}.piatto small{color:#6f766c;display:block;font-weight:400}
+.piatto span{color:var(--primario);font-weight:700;white-space:nowrap}
+.galleria{display:grid;grid-template-columns:repeat(3,1fr);gap:12px}
+.galleria img{width:100%;height:210px;object-fit:cover;border-radius:10px}
+.info{display:grid;grid-template-columns:1fr 1fr;gap:40px}
+.info .box{background:#fff;border:1px solid #e8ece6;border-radius:12px;padding:26px}
+.info h3{color:var(--primario);margin-bottom:10px}
+footer{background:#151d17;color:#cdd4cb;text-align:center;padding:30px 24px;font-size:.9rem}
+@media(max-width:800px){.chi,.menu-grid,.info{grid-template-columns:1fr}.galleria{grid-template-columns:1fr 1fr}.nav a{display:none}.nav .btn{display:inline-block}}
+</style>
+</head>
+<body>
+<div style="background:#ffd400;color:#000;text-align:center;padding:10px 16px;font:600 .9rem/1.45 Inter,Arial,sans-serif">⚠️ Sito DIMOSTRATIVO realizzato da StudioBFBR su informazioni pubbliche · non ancora abilitato all'accesso del pubblico.</div>
+<header><nav class="nav">
+<div class="logo">Osteria della Brianza</div>
+<div><a href="#storia">Storia</a><a href="#menu">Menu</a><a href="#galleria">Galleria</a><a href="#contatti">Contatti</a><a class="btn gold" href="tel:+39039123456">Prenota</a></div>
+</nav></header>
+
+<div class="hero">
+<div class="wrap">
+<div class="tag">Monza · Cucina brianzola</div>
+<h1>La tradizione lombarda, a tavola</h1>
+<p>Cassoeula, risotto alla monzese, rostin negaa. I sapori della Brianza di una volta.</p>
+<a class="btn gold" href="tel:+39039123456">Prenota un tavolo</a>
+</div></div>
+
+<section id="storia"><div class="wrap chi">
+<div><h2 style="text-align:left">La nostra osteria</h2>
+<p>Nel cuore di Monza, l'Osteria della Brianza porta in tavola la cucina lombarda di tradizione: piatti di casa, ingredienti del territorio e ricette tramandate. Un ambiente familiare dove ritrovare i sapori veri della Brianza.</p>
+<p style="margin-top:14px">Pasta e risotti fatti come una volta, carni cotte con pazienza, una cantina che parla di Lombardia.</p>
+</div>
+<img src="https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?w=800&q=70" alt="Sala dell'osteria"/>
+</div></section>
+
+<section id="menu" style="background:#f3f6f0"><div class="wrap">
+<h2>Il menu</h2><p class="sub">Una selezione della nostra cucina</p>
+<div class="menu-grid">
+<div class="piatto"><b>Risotto alla monzese<small>con luganega di Monza</small></b><span>13€</span></div>
+<div class="piatto"><b>Cassoeula<small>verze e maiale, cottura lenta</small></b><span>16€</span></div>
+<div class="piatto"><b>Rostin negaa<small>nodini di vitello al vino</small></b><span>17€</span></div>
+<div class="piatto"><b>Polenta e bruscitt<small>ricetta della tradizione</small></b><span>14€</span></div>
+<div class="piatto"><b>Trippa alla brianzola<small>con fagioli</small></b><span>12€</span></div>
+<div class="piatto"><b>Torta paesana<small>dolce di pane della Brianza</small></b><span>6€</span></div>
+</div></div></section>
+
+<section id="galleria"><div class="wrap">
+<h2>Galleria</h2><p class="sub">Uno sguardo ai nostri piatti</p>
+<div class="galleria">
+<img src="https://images.unsplash.com/photo-1621996346565-e3dbc353d2e5?w=600&q=70" alt="Piatto 1"/>
+<img src="https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=600&q=70" alt="Piatto 2"/>
+<img src="https://images.unsplash.com/photo-1544025162-d76694265947?w=600&q=70" alt="Piatto 3"/>
+</div></div></section>
+
+<section id="contatti" style="background:#f3f6f0"><div class="wrap">
+<h2>Dove siamo</h2><p class="sub">Ti aspettiamo a Monza</p>
+<div class="info">
+<div class="box"><h3>Contatti</h3>
+<p>Via Vittorio Emanuele 12, Monza (MB)</p>
+<p>Tel: <a href="tel:+39039123456">+39 039 123456</a></p>
+<p>Aperto mar–dom, 12:00–14:30 / 19:00–22:30</p></div>
+<div class="box"><h3>Prenotazioni</h3>
+<p>Consigliata la prenotazione per cena e nel weekend.</p>
+<p style="margin-top:12px"><a class="btn" href="tel:+39039123456">Chiama ora</a></p></div>
+</div></div></section>
+
+<footer>© 2026 Osteria della Brianza · Via Vittorio Emanuele 12, Monza (MB) · P.IVA demo · Sito realizzato da StudioBFBR</footer>
+</body>
+</html>

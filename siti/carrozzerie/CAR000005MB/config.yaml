@@ -1,0 +1,10 @@
+cliente:
+  id: "CAR000005MB"
+  nome_attivita: "Carrozzeria F.lli Lorenzin"
+  categoria: "carrozzeria"
+  citta: "Seregno"
+  provincia: "MB"
+  indirizzo: "Via Giovanni Pacini, 52, 20831 Seregno"
+  telefono: ""
+  sito_originale: ""
+  stato: "demo_prospect"

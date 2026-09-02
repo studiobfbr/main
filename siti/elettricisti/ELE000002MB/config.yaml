@@ -1,0 +1,10 @@
+cliente:
+  id: "ELE000002MB"
+  nome_attivita: "Emmezeta Impianti di Monocchio Daniele"
+  categoria: "elettricista"
+  citta: "Muggio"
+  provincia: "MB"
+  indirizzo: "Via Venezia, 2, 20835 Muggio"
+  telefono: "347 1886403"
+  sito_originale: ""
+  stato: "demo_prospect"

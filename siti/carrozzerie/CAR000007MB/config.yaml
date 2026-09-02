@@ -1,0 +1,10 @@
+cliente:
+  id: "CAR000007MB"
+  nome_attivita: "Carrozzeria Belluno"
+  categoria: "carrozzeria"
+  citta: "Seregno"
+  provincia: "MB"
+  indirizzo: "Via Belluno, 6, 20831 Seregno"
+  telefono: ""
+  sito_originale: ""
+  stato: "demo_prospect"

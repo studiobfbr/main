@@ -1,0 +1,10 @@
+cliente:
+  id: "CAR000003MB"
+  nome_attivita: "Carrozzeria Milano di Marin Franco"
+  categoria: "carrozzeria"
+  citta: "Seregno"
+  provincia: "MB"
+  indirizzo: "Via Copenaghen, 22/24, 20831 Seregno"
+  telefono: ""
+  sito_originale: ""
+  stato: "demo_prospect"

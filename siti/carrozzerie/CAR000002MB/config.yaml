@@ -1,0 +1,10 @@
+cliente:
+  id: "CAR000002MB"
+  nome_attivita: "Carrozzeria Seregnese"
+  categoria: "carrozzeria"
+  citta: "Seregno"
+  provincia: "MB"
+  indirizzo: "Via Ticino, 33, 20831 Seregno"
+  telefono: ""
+  sito_originale: ""
+  stato: "demo_prospect"

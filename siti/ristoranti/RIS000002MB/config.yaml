@@ -1,0 +1,10 @@
+cliente:
+  id: "RIS000002MB"
+  nome_attivita: "Ristorante Sporting Brugherio"
+  categoria: "ristorante"
+  citta: "Brugherio"
+  provincia: "MB"
+  indirizzo: "Viale Santa Caterina, 35, 20861 Brugherio"
+  telefono: "039 2873832"
+  sito_originale: ""
+  stato: "demo_prospect"

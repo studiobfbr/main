@@ -1,0 +1,10 @@
+cliente:
+  id: "CAR000009MB"
+  nome_attivita: "Bell's Car di Belluschi"
+  categoria: "carrozzeria"
+  citta: "Seregno"
+  provincia: "MB"
+  indirizzo: "Via Messina, 47, 20831 Seregno"
+  telefono: ""
+  sito_originale: ""
+  stato: "demo_prospect"

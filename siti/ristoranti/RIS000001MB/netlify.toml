@@ -1,0 +1,5 @@
+# Sito statico HTML/CSS, nessuna build
+[build]
+  command = ""
+  publish = "."
+  functions = ""

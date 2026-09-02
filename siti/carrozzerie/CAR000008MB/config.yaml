@@ -1,0 +1,10 @@
+cliente:
+  id: "CAR000008MB"
+  nome_attivita: "Carrozzeria Cabiati Angelo"
+  categoria: "carrozzeria"
+  citta: "Seregno"
+  provincia: "MB"
+  indirizzo: "Via Bernardino Luini, 26, 20831 Seregno"
+  telefono: ""
+  sito_originale: ""
+  stato: "demo_prospect"

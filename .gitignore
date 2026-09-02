@@ -9,3 +9,8 @@ Thumbs.db
 
 # ERP: vive su Drive
 PIPELINE.xlsx
+
+# segreti automazione (mai su GitHub)
+automazione/bfbr-config.json
+automazione/bfbr-netlify-map.json
+automazione/log-pubblicazione.txt

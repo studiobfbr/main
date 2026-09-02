@@ -1,0 +1,10 @@
+cliente:
+  id: "IDR000002MB"
+  nome_attivita: "C. Monguzzi Srl"
+  categoria: "idraulico"
+  citta: "Monza"
+  provincia: "MB"
+  indirizzo: "Via Pablo Picasso, 11, 20900 Monza"
+  telefono: "039 836219"
+  sito_originale: ""
+  stato: "demo_prospect"

@@ -1,0 +1,14 @@
+# LIVELLO 3 — override singolo sito
+cliente:
+  id: "RIS000001MB"
+  nome_attivita: "Osteria della Brianza"
+  categoria: "ristorante"
+  citta: "Monza"
+  provincia: "MB"
+  usa_modello: "ristorante/v1"
+  email_contatto: "DA TROVARE/VERIFICARE"
+  stato: "demo_prospect"
+override_stile:
+  colore_primario: "#1f5133"
+testi:
+  slogan: "La tradizione lombarda, a tavola"

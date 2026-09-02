@@ -1,0 +1,10 @@
+cliente:
+  id: "PAR000002MB"
+  nome_attivita: "Parrucchiere Stefano Conte"
+  categoria: "parrucchiere"
+  citta: "Monza"
+  provincia: "MB"
+  indirizzo: "Via Moriggia, 4/A, 20900 Monza"
+  telefono: "039 360281"
+  sito_originale: ""
+  stato: "demo_prospect"

@@ -1,0 +1,12 @@
+[
+  {"codice":"CAR000001MB","nome":"Carrozzeria Vera Car","categoria":"carrozzeria","citta":"Seregno","provincia":"MB","cap":"20831","indirizzo":"Via Ticino, 39","telefono":"","email":"","sito":""},
+  {"codice":"CAR000002MB","nome":"Carrozzeria Seregnese","categoria":"carrozzeria","citta":"Seregno","provincia":"MB","cap":"20831","indirizzo":"Via Ticino, 33","telefono":"","email":"","sito":""},
+  {"codice":"CAR000003MB","nome":"Carrozzeria Milano di Marin Franco","categoria":"carrozzeria","citta":"Seregno","provincia":"MB","cap":"20831","indirizzo":"Via Copenaghen, 22/24","telefono":"","email":"","sito":""},
+  {"codice":"CAR000004MB","nome":"Carrozzeria Mangone","categoria":"carrozzeria","citta":"Seregno","provincia":"MB","cap":"20831","indirizzo":"Via Berlino, 4","telefono":"","email":"","sito":""},
+  {"codice":"CAR000005MB","nome":"Carrozzeria F.lli Lorenzin","categoria":"carrozzeria","citta":"Seregno","provincia":"MB","cap":"20831","indirizzo":"Via Giovanni Pacini, 52","telefono":"","email":"","sito":""},
+  {"codice":"CAR000006MB","nome":"Carrozzeria Del Sole F.lli Meroni","categoria":"carrozzeria","citta":"Seregno","provincia":"MB","cap":"20831","indirizzo":"Via Parigi, 25","telefono":"","email":"","sito":""},
+  {"codice":"CAR000007MB","nome":"Carrozzeria Belluno","categoria":"carrozzeria","citta":"Seregno","provincia":"MB","cap":"20831","indirizzo":"Via Belluno, 6","telefono":"","email":"","sito":""},
+  {"codice":"CAR000008MB","nome":"Carrozzeria Cabiati Angelo","categoria":"carrozzeria","citta":"Seregno","provincia":"MB","cap":"20831","indirizzo":"Via Bernardino Luini, 26","telefono":"","email":"","sito":""},
+  {"codice":"CAR000009MB","nome":"Bell's Car di Belluschi","categoria":"carrozzeria","citta":"Seregno","provincia":"MB","cap":"20831","indirizzo":"Via Messina, 47","telefono":"","email":"","sito":""},
+  {"codice":"CAR000010MB","nome":"Carrozzeria Rigamonti","categoria":"carrozzeria","citta":"Seregno","provincia":"MB","cap":"20831","indirizzo":"Via Archimede, 12","telefono":"","email":"","sito":""}
+]

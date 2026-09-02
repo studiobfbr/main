@@ -1,0 +1,10 @@
+cliente:
+  id: "ELE000001MB"
+  nome_attivita: "Teli Service Srl"
+  categoria: "elettricista"
+  citta: "Monza"
+  provincia: "MB"
+  indirizzo: "Via Amerigo Vespucci, 25, 20900 Monza"
+  telefono: "039 2848641"
+  sito_originale: ""
+  stato: "demo_prospect"

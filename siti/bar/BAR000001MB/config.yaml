@@ -1,0 +1,10 @@
+cliente:
+  id: "BAR000001MB"
+  nome_attivita: "Osteria Bar Caffe Moderno"
+  categoria: "bar"
+  citta: "Monza"
+  provincia: "MB"
+  indirizzo: "Piazza Roma, 2, 20900 Monza"
+  telefono: ""
+  sito_originale: ""
+  stato: "demo_prospect"

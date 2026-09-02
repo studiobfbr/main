@@ -1,0 +1,10 @@
+cliente:
+  id: "CAR000006MB"
+  nome_attivita: "Carrozzeria Del Sole F.lli Meroni"
+  categoria: "carrozzeria"
+  citta: "Seregno"
+  provincia: "MB"
+  indirizzo: "Via Parigi, 25, 20831 Seregno"
+  telefono: ""
+  sito_originale: ""
+  stato: "demo_prospect"

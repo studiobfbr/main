@@ -1,0 +1,10 @@
+cliente:
+  id: "PAR000001MB"
+  nome_attivita: "Sonia Hair"
+  categoria: "parrucchiere"
+  citta: "Monza"
+  provincia: "MB"
+  indirizzo: "Via Felice Cavallotti, 136, 20900 Monza"
+  telefono: "039 742982"
+  sito_originale: ""
+  stato: "demo_prospect"

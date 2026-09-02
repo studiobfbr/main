@@ -1,0 +1,10 @@
+cliente:
+  id: "CAR000004MB"
+  nome_attivita: "Carrozzeria Mangone"
+  categoria: "carrozzeria"
+  citta: "Seregno"
+  provincia: "MB"
+  indirizzo: "Via Berlino, 4, 20831 Seregno"
+  telefono: ""
+  sito_originale: ""
+  stato: "demo_prospect"

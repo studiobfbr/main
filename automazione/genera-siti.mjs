@@ -1,0 +1,140 @@
+#!/usr/bin/env node
+// Genera le cartelle-sito a partire da un JSON di attività.
+// USO: node genera-siti.mjs lotti/<file>.json
+// Scrive in ../siti/<cartella-categoria>/<CODICE>/  con banner demo giallo.
+import { readFileSync, writeFileSync, mkdirSync } from 'node:fs';
+import { join, dirname } from 'node:path';
+import { fileURLToPath } from 'node:url';
+
+const __dir = dirname(fileURLToPath(import.meta.url));
+const ROOT = join(__dir, '..');
+const SITI = join(ROOT, 'siti');
+
+const CARTELLA = {
+  ristorante: 'ristoranti', bar: 'bar', carrozzeria: 'carrozzerie',
+  elettricista: 'elettricisti', idraulico: 'idraulici', parrucchiere: 'parrucchieri',
+  estetista: 'estetisti', 'studio-legale': 'studi-legali', commercialista: 'commercialisti',
+};
+const BANNER = `<div style="background:#ffd400;color:#000;text-align:center;padding:10px 16px;font:600 .9rem/1.45 Inter,Arial,sans-serif">⚠️ Sito DIMOSTRATIVO realizzato da StudioBFBR su informazioni pubbliche · non ancora abilitato all'accesso del pubblico.</div>`;
+
+const esc = (s = '') => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+
+function carrozzeria(b) {
+  const tel = b.telefono ? `<a class="btn gold" href="tel:${b.telefono.replace(/\s/g,'')}">Chiama ${b.telefono}</a>` : `<a class="btn gold" href="#contatti">Contattaci</a>`;
+  const telRow = b.telefono ? `<p>Tel: <a href="tel:${b.telefono.replace(/\s/g,'')}">${esc(b.telefono)}</a></p>` : `<p>Telefono in aggiornamento — scrivici per un preventivo.</p>`;
+  return `<!DOCTYPE html>
+<html lang="it"><head>
+<meta charset="UTF-8"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>${esc(b.nome)} — Carrozzeria a ${esc(b.citta)}</title>
+<meta name="description" content="${esc(b.nome)}, carrozzeria a ${esc(b.citta)} (${esc(b.provincia)}). Riparazione carrozzeria, verniciatura, grandine, cristalli, soccorso e auto sostitutiva."/>
+<link rel="preconnect" href="https://fonts.googleapis.com"/>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet"/>
+<style>
+:root{--primario:#0e3a5f;--secondario:#f5a623;--sfondo:#f7f9fb;--testo:#1c2530;--font-titoli:'Montserrat',sans-serif;--font-testo:'Inter',sans-serif}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:var(--font-testo);color:var(--testo);background:var(--sfondo);line-height:1.6}
+h1,h2,h3{font-family:var(--font-titoli)}
+.wrap{max-width:1080px;margin:0 auto;padding:0 24px}
+header{position:sticky;top:0;background:rgba(255,255,255,.96);backdrop-filter:blur(6px);border-bottom:1px solid #e6ebf0;z-index:10}
+.nav{display:flex;justify-content:space-between;align-items:center;padding:14px 24px;max-width:1080px;margin:0 auto}
+.logo{font-family:var(--font-titoli);font-weight:800;font-size:1.2rem;color:var(--primario);text-transform:uppercase;letter-spacing:.5px}
+.nav a{margin-left:20px;text-decoration:none;font-size:.92rem;color:var(--testo)}
+.btn{background:var(--primario);color:#fff;padding:11px 20px;border-radius:6px;text-decoration:none;display:inline-block;font-weight:600}
+.btn.gold{background:var(--secondario);color:#1c2530}
+.hero{position:relative;min-height:66vh;display:flex;align-items:center;justify-content:center;text-align:center;color:#fff;background:linear-gradient(rgba(10,25,40,.62),rgba(10,25,40,.62)),url('https://images.unsplash.com/photo-1632823469850-1b7b1e8b7e1e?w=1600&q=70'),url('https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?w=1600&q=70') center/cover}
+.hero .tag{letter-spacing:3px;text-transform:uppercase;font-size:.8rem;opacity:.9;margin-bottom:12px}
+.hero h1{font-size:clamp(2rem,5vw,3.4rem);margin-bottom:12px;max-width:820px}
+.hero p{font-size:1.1rem;margin-bottom:24px;opacity:.95}
+section{padding:64px 0}
+section h2{font-size:1.8rem;color:var(--primario);margin-bottom:8px;text-align:center}
+.sub{text-align:center;color:#63707d;margin-bottom:32px}
+.servizi{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
+.card{background:#fff;border:1px solid #e6ebf0;border-radius:10px;padding:22px}
+.card h3{color:var(--primario);font-size:1.05rem;margin-bottom:6px}
+.card p{color:#63707d;font-size:.94rem}
+.info{display:grid;grid-template-columns:1fr 1fr;gap:36px;margin-top:8px}
+.box{background:#fff;border:1px solid #e6ebf0;border-radius:10px;padding:24px}
+.box h3{color:var(--primario);margin-bottom:10px}
+footer{background:#0b1a28;color:#c3ced8;text-align:center;padding:28px 24px;font-size:.88rem}
+@media(max-width:800px){.servizi,.info{grid-template-columns:1fr}.nav a:not(.btn){display:none}}
+</style></head>
+<body>
+${BANNER}
+<header><nav class="nav">
+<div class="logo">${esc(b.nome)}</div>
+<div><a href="#servizi">Servizi</a><a href="#chi">Chi siamo</a><a href="#contatti">Contatti</a>${b.telefono?`<a class="btn gold" href="tel:${b.telefono.replace(/\s/g,'')}">Chiama</a>`:''}</div>
+</nav></header>
+
+<div class="hero"><div class="wrap">
+<div class="tag">Carrozzeria · ${esc(b.citta)} (${esc(b.provincia)})</div>
+<h1>${esc(b.nome)}</h1>
+<p>Riparazione, verniciatura e cura della tua auto — con precisione e passione.</p>
+${tel}
+</div></div>
+
+<section id="servizi"><div class="wrap">
+<h2>I nostri servizi</h2><p class="sub">Tutto quello che serve alla tua vettura</p>
+<div class="servizi">
+<div class="card"><h3>Riparazione carrozzeria</h3><p>Ripristino di ammaccature, urti e danni da sinistro, con finiture a regola d'arte.</p></div>
+<div class="card"><h3>Verniciatura</h3><p>Verniciatura professionale a forno con abbinamento colore preciso.</p></div>
+<div class="card"><h3>Danni da grandine</h3><p>Rimozione ammaccature senza riverniciatura quando possibile.</p></div>
+<div class="card"><h3>Sostituzione cristalli</h3><p>Parabrezza e vetri: riparazione e sostituzione rapida.</p></div>
+<div class="card"><h3>Soccorso e traino</h3><p>Assistenza e recupero del veicolo negli orari di officina.</p></div>
+<div class="card"><h3>Auto sostitutiva</h3><p>Resti mobile mentre ci prendiamo cura della tua auto.</p></div>
+</div></div></section>
+
+<section id="chi" style="background:#eef3f7"><div class="wrap" style="max-width:820px;text-align:center">
+<h2>Chi siamo</h2>
+<p style="margin-top:10px">${esc(b.nome)} è una carrozzeria di ${esc(b.citta)}, in provincia di ${esc(b.provincia)==='MB'?'Monza e Brianza':esc(b.provincia)}. Lavoriamo su auto di ogni marca con serietà e attenzione al dettaglio, per riconsegnarti un veicolo come nuovo. Preventivi chiari e tempi rispettati.</p>
+</div></section>
+
+<section id="contatti"><div class="wrap">
+<h2>Dove siamo</h2><p class="sub">Passa a trovarci o richiedi un preventivo</p>
+<div class="info">
+<div class="box"><h3>Contatti</h3>
+<p>${esc(b.indirizzo)} — ${esc(b.cap)} ${esc(b.citta)} (${esc(b.provincia)})</p>
+${telRow}
+<p>Orari: Lun–Ven mattino e pomeriggio · Sab su appuntamento</p></div>
+<div class="box"><h3>Preventivo</h3>
+<p>Contattaci per un preventivo gratuito e senza impegno sulla riparazione della tua auto.</p>
+<p style="margin-top:12px">${b.telefono?`<a class="btn" href="tel:${b.telefono.replace(/\s/g,'')}">Chiama ora</a>`:`<a class="btn" href="#">Richiedi preventivo</a>`}</p></div>
+</div></div></section>
+
+<footer>© 2026 ${esc(b.nome)} · ${esc(b.indirizzo)}, ${esc(b.citta)} (${esc(b.provincia)}) · Sito realizzato da StudioBFBR</footer>
+</body></html>`;
+}
+
+const TEMPLATES = { carrozzeria };
+
+const file = process.argv[2];
+if (!file) { console.error('Uso: node genera-siti.mjs lotti/<file>.json'); process.exit(1); }
+const lista = JSON.parse(readFileSync(join(__dir, file), 'utf8'));
+let n = 0;
+for (const b of lista) {
+  const cartella = CARTELLA[b.categoria];
+  if (!cartella) { console.log('salto', b.codice, '- categoria sconosciuta', b.categoria); continue; }
+  const gen = TEMPLATES[b.categoria];
+  if (!gen) { console.log('salto', b.codice, '- nessun template per', b.categoria); continue; }
+  const dir = join(SITI, cartella, b.codice);
+  mkdirSync(join(dir, 'images'), { recursive: true });
+  writeFileSync(join(dir, 'index.html'), gen(b));
+  writeFileSync(join(dir, 'netlify.toml'), `# Sito statico, nessuna build\n[build]\n  command = ""\n  publish = "."\n  functions = ""\n`);
+  writeFileSync(join(dir, 'config.yaml'),
+`cliente:
+  id: "${b.codice}"
+  nome_attivita: "${b.nome}"
+  categoria: "${b.categoria}"
+  citta: "${b.citta}"
+  provincia: "${b.provincia}"
+  indirizzo: "${b.indirizzo}, ${b.cap} ${b.citta}"
+  telefono: "${b.telefono || ''}"
+  sito_originale: "${b.sito || ''}"
+  stato: "demo_prospect"
+`);
+  writeFileSync(join(dir, 'README.md'),
+`# ${b.codice} — ${b.nome}\n\nSito DEMO (prospect) — ${b.categoria} a ${b.citta} (${b.provincia}).\n\n| Campo | Valore |\n|---|---|\n| Codice | ${b.codice} |\n| Attività | ${b.nome} |\n| Indirizzo | ${b.indirizzo}, ${b.cap} ${b.citta} (${b.provincia}) |\n| Owner | StudioBFBR |\n| Link | https://${b.codice.toLowerCase()}.netlify.app |\n\nRealizzato su informazioni pubbliche. Banner demo attivo.\n`);
+  writeFileSync(join(dir, 'images', '.gitkeep'), '');
+  console.log('creato', `siti/${cartella}/${b.codice}`);
+  n++;
+}
+console.log(`\nFatto: ${n} siti generati.`);

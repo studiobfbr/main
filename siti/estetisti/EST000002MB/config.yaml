@@ -1,0 +1,10 @@
+cliente:
+  id: "EST000002MB"
+  nome_attivita: "The Natural SPA"
+  categoria: "estetista"
+  citta: "Monza"
+  provincia: "MB"
+  indirizzo: "Via Porta Carlo, 21, 20900 Monza"
+  telefono: ""
+  sito_originale: ""
+  stato: "demo_prospect"
