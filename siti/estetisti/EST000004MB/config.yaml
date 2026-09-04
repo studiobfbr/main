@@ -1,0 +1,10 @@
+cliente:
+  id: "EST000004MB"
+  nome_attivita: "Iris Estetica & Benessere"
+  categoria: "estetista"
+  citta: "Lissone"
+  provincia: "MB"
+  indirizzo: "Viale della Repubblica, 24, 20851 Lissone"
+  telefono: "039 2454411"
+  sito_originale: ""
+  stato: "demo_prospect"

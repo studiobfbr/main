@@ -1,0 +1,10 @@
+cliente:
+  id: "RIS000003MB"
+  nome_attivita: "Trattoria Familiare - Al Posto Giusto"
+  categoria: "ristorante"
+  citta: "Lissone"
+  provincia: "MB"
+  indirizzo: "Via Giosuè Carducci, 39, 20851 Lissone"
+  telefono: "039 793900"
+  sito_originale: ""
+  stato: "demo_prospect"

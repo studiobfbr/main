@@ -1,0 +1,10 @@
+cliente:
+  id: "PAR000003MB"
+  nome_attivita: "Emme Parrucchieri"
+  categoria: "parrucchiere"
+  citta: "Desio"
+  provincia: "MB"
+  indirizzo: "Via Edoardo Ferravilla, 66, 20832 Desio"
+  telefono: "0362 302359"
+  sito_originale: ""
+  stato: "demo_prospect"

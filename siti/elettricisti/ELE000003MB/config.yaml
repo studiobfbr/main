@@ -1,0 +1,10 @@
+cliente:
+  id: "ELE000003MB"
+  nome_attivita: "Elettrica Barzaghi S.r.l.s."
+  categoria: "elettricista"
+  citta: "Lissone"
+  provincia: "MB"
+  indirizzo: "Via Brianza, 21, 20851 Lissone"
+  telefono: "039 2457649"
+  sito_originale: ""
+  stato: "demo_prospect"

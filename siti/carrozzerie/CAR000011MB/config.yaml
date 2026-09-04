@@ -1,0 +1,10 @@
+cliente:
+  id: "CAR000011MB"
+  nome_attivita: "Carrozzeria Giussani"
+  categoria: "carrozzeria"
+  citta: "Lissone"
+  provincia: "MB"
+  indirizzo: "Via Pasubio, 18, 20851 Lissone"
+  telefono: "039 481592"
+  sito_originale: ""
+  stato: "demo_prospect"

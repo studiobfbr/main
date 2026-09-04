@@ -1,0 +1,10 @@
+cliente:
+  id: "EST000003MB"
+  nome_attivita: "Le Meraviglie Centro Estetico"
+  categoria: "estetista"
+  citta: "Lissone"
+  provincia: "MB"
+  indirizzo: "Via Valle, 66, 20851 Lissone"
+  telefono: "338 4679859"
+  sito_originale: ""
+  stato: "demo_prospect"

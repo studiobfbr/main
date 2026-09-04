@@ -1,0 +1,10 @@
+cliente:
+  id: "IDR000003MB"
+  nome_attivita: "ICM Impianti di Bosio Daniele"
+  categoria: "idraulico"
+  citta: "Desio"
+  provincia: "MB"
+  indirizzo: "Via XX Settembre, 38, 20832 Desio"
+  telefono: "0362 629624"
+  sito_originale: ""
+  stato: "demo_prospect"

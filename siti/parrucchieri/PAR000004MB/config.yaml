@@ -1,0 +1,10 @@
+cliente:
+  id: "PAR000004MB"
+  nome_attivita: "Mirko Hair Style"
+  categoria: "parrucchiere"
+  citta: "Desio"
+  provincia: "MB"
+  indirizzo: "Via Milano, 300, 20832 Desio"
+  telefono: "0362 307041"
+  sito_originale: ""
+  stato: "demo_prospect"

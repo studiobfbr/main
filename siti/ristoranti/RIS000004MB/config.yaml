@@ -1,0 +1,10 @@
+cliente:
+  id: "RIS000004MB"
+  nome_attivita: "Ristorante Marienplatz"
+  categoria: "ristorante"
+  citta: "Vimercate"
+  provincia: "MB"
+  indirizzo: "Piazza Marconi Guglielmo, 7/D, 20871 Vimercate"
+  telefono: "039 669968"
+  sito_originale: ""
+  stato: "demo_prospect"
