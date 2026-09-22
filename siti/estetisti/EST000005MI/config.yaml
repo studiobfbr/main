@@ -1,0 +1,10 @@
+cliente:
+  id: "EST000005MI"
+  nome_attivita: "Centro Estetico Ninfea"
+  categoria: "estetista"
+  citta: "Cologno Monzese"
+  provincia: "MI"
+  indirizzo: "Viale Lombardia, 32, Cologno Monzese (MI)"
+  telefono: "02 39626691"
+  sito_originale: ""
+  stato: "demo_prospect"

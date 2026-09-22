@@ -1,0 +1,10 @@
+cliente:
+  id: "ELE000005MB"
+  nome_attivita: "Elettrica Vaghi S.r.l."
+  categoria: "elettricista"
+  citta: "Seveso"
+  provincia: "MB"
+  indirizzo: "Via Cadore, 11, 20822 Seveso (MB)"
+  telefono: "0362 502225"
+  sito_originale: ""
+  stato: "demo_prospect"

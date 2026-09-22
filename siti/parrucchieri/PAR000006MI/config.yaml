@@ -1,0 +1,10 @@
+cliente:
+  id: "PAR000006MI"
+  nome_attivita: "Perfect VRHairStyle"
+  categoria: "parrucchiere"
+  citta: "Cologno Monzese"
+  provincia: "MI"
+  indirizzo: "Via Ginestrino, 30, Cologno Monzese (MI)"
+  telefono: "02 42443065"
+  sito_originale: "Facebook (nessun sito web)"
+  stato: "demo_prospect"

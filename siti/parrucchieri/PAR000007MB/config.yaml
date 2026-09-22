@@ -1,0 +1,10 @@
+cliente:
+  id: "PAR000007MB"
+  nome_attivita: "Lavezzari Tiziano Parrucchiere"
+  categoria: "parrucchiere"
+  citta: "Nova Milanese"
+  provincia: "MB"
+  indirizzo: "Via Madonnina, 15, 20834 Nova Milanese (MB)"
+  telefono: "0362 451098"
+  sito_originale: ""
+  stato: "demo_prospect"

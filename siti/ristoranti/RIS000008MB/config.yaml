@@ -1,0 +1,10 @@
+cliente:
+  id: "RIS000008MB"
+  nome_attivita: "Trattoria Tri Basei"
+  categoria: "ristorante"
+  citta: "Meda"
+  provincia: "MB"
+  indirizzo: "Via Alessandro Manzoni, 39, 20821 Meda (MB)"
+  telefono: "0362 1447816"
+  sito_originale: ""
+  stato: "demo_prospect"

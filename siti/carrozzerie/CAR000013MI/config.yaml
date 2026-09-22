@@ -1,0 +1,10 @@
+cliente:
+  id: "CAR000013MI"
+  nome_attivita: "Carrozzeria Critelli Umberto"
+  categoria: "carrozzeria"
+  citta: "Cinisello Balsamo"
+  provincia: "MI"
+  indirizzo: "Via Cadorna Luigi, 4, Cinisello Balsamo (MI)"
+  telefono: ""
+  sito_originale: ""
+  stato: "demo_prospect"

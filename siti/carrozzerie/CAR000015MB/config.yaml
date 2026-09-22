@@ -1,0 +1,10 @@
+cliente:
+  id: "CAR000015MB"
+  nome_attivita: "Imperialcar Carrozzeria"
+  categoria: "carrozzeria"
+  citta: "Seveso"
+  provincia: "MB"
+  indirizzo: "Via Cavalla, 81, 20822 Seveso (MB)"
+  telefono: "0362 540761"
+  sito_originale: ""
+  stato: "demo_prospect"

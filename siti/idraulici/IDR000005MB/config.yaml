@@ -1,0 +1,10 @@
+cliente:
+  id: "IDR000005MB"
+  nome_attivita: "Santambrogio Emilio Impianti"
+  categoria: "idraulico"
+  citta: "Cesano Maderno"
+  provincia: "MB"
+  indirizzo: "Via Romagnosi, 25, 20811 Cesano Maderno (MB)"
+  telefono: "0362 540838"
+  sito_originale: ""
+  stato: "demo_prospect"

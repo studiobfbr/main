@@ -1,0 +1,10 @@
+cliente:
+  id: "IDR000004MI"
+  nome_attivita: "Termoidraulica Costanzo S.r.l."
+  categoria: "idraulico"
+  citta: "Cologno Monzese"
+  provincia: "MI"
+  indirizzo: "Via Milano, 28, Cologno Monzese (MI)"
+  telefono: ""
+  sito_originale: ""
+  stato: "demo_prospect"

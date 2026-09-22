@@ -1,0 +1,10 @@
+cliente:
+  id: "BAR000003MI"
+  nome_attivita: "Il Caffe della Piazza"
+  categoria: "bar"
+  citta: "Cinisello Balsamo"
+  provincia: "MI"
+  indirizzo: "Piazza Antonio Gramsci, 42, Cinisello Balsamo (MI)"
+  telefono: "02 40027147"
+  sito_originale: ""
+  stato: "demo_prospect"

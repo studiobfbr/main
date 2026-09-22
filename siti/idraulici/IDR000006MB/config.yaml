@@ -1,0 +1,10 @@
+cliente:
+  id: "IDR000006MB"
+  nome_attivita: "Idrotecno di Drago Paolo Virginio"
+  categoria: "idraulico"
+  citta: "Cesano Maderno"
+  provincia: "MB"
+  indirizzo: "Via Basento, 10, 20811 Cesano Maderno (MB)"
+  telefono: "0362 541261"
+  sito_originale: ""
+  stato: "demo_prospect"

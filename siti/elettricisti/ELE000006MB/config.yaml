@@ -1,0 +1,10 @@
+cliente:
+  id: "ELE000006MB"
+  nome_attivita: "S.E.I. Esse Impianti"
+  categoria: "elettricista"
+  citta: "Seveso"
+  provincia: "MB"
+  indirizzo: "Via San Michele del Carso, 5, 20822 Seveso (MB)"
+  telefono: "0362 528469"
+  sito_originale: ""
+  stato: "demo_prospect"

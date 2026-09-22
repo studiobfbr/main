@@ -36,3 +36,25 @@ Aggiornato da Claude. Le fasi si cambiano nell.Excel, non qui. Schema codici: ve
 | PAR000004MB | Mirko Hair Style | parrucchiere | Desio | in_attesa_approvazione | siti/parrucchieri/PAR000004MB |
 | EST000003MB | Le Meraviglie Centro Estetico | estetista | Lissone | in_attesa_approvazione | siti/estetisti/EST000003MB |
 | EST000004MB | Iris Estetica & Benessere | estetista | Lissone | in_attesa_approvazione | siti/estetisti/EST000004MB |
+| RIS000005MI | Trattoria Lo Sfizio | ristorante | Cinisello Balsamo | in_attesa_approvazione | siti/ristoranti/RIS000005MI |
+| RIS000006MI | Trattoria Da Giacomo | ristorante | Cinisello Balsamo | in_attesa_approvazione | siti/ristoranti/RIS000006MI |
+| CAR000012MI | Carrozzeria New Car Snc | carrozzeria | Cinisello Balsamo | in_attesa_approvazione | siti/carrozzerie/CAR000012MI |
+| CAR000013MI | Carrozzeria Critelli Umberto | carrozzeria | Cinisello Balsamo | in_attesa_approvazione | siti/carrozzerie/CAR000013MI |
+| PAR000005MI | The Twins Style Parrucchieri | parrucchiere | Cologno Monzese | in_attesa_approvazione | siti/parrucchieri/PAR000005MI |
+| PAR000006MI | Perfect VRHairStyle | parrucchiere | Cologno Monzese | in_attesa_approvazione | siti/parrucchieri/PAR000006MI |
+| EST000005MI | Centro Estetico Ninfea | estetista | Cologno Monzese | in_attesa_approvazione | siti/estetisti/EST000005MI |
+| BAR000003MI | Il Caffe della Piazza | bar | Cinisello Balsamo | in_attesa_approvazione | siti/bar/BAR000003MI |
+| ELE000004MI | Zampaglione Samuele Impianti Elettrici | elettricista | Sesto San Giovanni | in_attesa_approvazione | siti/elettricisti/ELE000004MI |
+| IDR000004MI | Termoidraulica Costanzo S.r.l. | idraulico | Cologno Monzese | in_attesa_approvazione | siti/idraulici/IDR000004MI |
+| RIS000007MB | Trattoria Emiliana Amarcord | ristorante | Meda | in_attesa_approvazione | siti/ristoranti/RIS000007MB |
+| RIS000008MB | Trattoria Tri Basei | ristorante | Meda | in_attesa_approvazione | siti/ristoranti/RIS000008MB |
+| CAR000014MB | Carrozzeria La Costa S.n.c. | carrozzeria | Meda | in_attesa_approvazione | siti/carrozzerie/CAR000014MB |
+| CAR000015MB | Imperialcar Carrozzeria | carrozzeria | Seveso | in_attesa_approvazione | siti/carrozzerie/CAR000015MB |
+| ELE000005MB | Elettrica Vaghi S.r.l. | elettricista | Seveso | in_attesa_approvazione | siti/elettricisti/ELE000005MB |
+| ELE000006MB | S.E.I. Esse Impianti | elettricista | Seveso | in_attesa_approvazione | siti/elettricisti/ELE000006MB |
+| IDR000005MB | Santambrogio Emilio Impianti | idraulico | Cesano Maderno | in_attesa_approvazione | siti/idraulici/IDR000005MB |
+| IDR000006MB | Idrotecno di Drago Paolo Virginio | idraulico | Cesano Maderno | in_attesa_approvazione | siti/idraulici/IDR000006MB |
+| PAR000007MB | Lavezzari Tiziano Parrucchiere | parrucchiere | Nova Milanese | in_attesa_approvazione | siti/parrucchieri/PAR000007MB |
+| EST000006MB | Centro Estetico Il Girasole | estetista | Cesano Maderno | in_attesa_approvazione | siti/estetisti/EST000006MB |
+
+Totale attività: 53

@@ -1,0 +1,10 @@
+cliente:
+  id: "RIS000006MI"
+  nome_attivita: "Trattoria Da Giacomo"
+  categoria: "ristorante"
+  citta: "Cinisello Balsamo"
+  provincia: "MI"
+  indirizzo: "Cinisello Balsamo, Cinisello Balsamo (MI)"
+  telefono: ""
+  sito_originale: ""
+  stato: "demo_prospect"

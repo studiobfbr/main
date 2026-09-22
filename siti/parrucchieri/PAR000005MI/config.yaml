@@ -1,0 +1,10 @@
+cliente:
+  id: "PAR000005MI"
+  nome_attivita: "The Twins Style Parrucchieri"
+  categoria: "parrucchiere"
+  citta: "Cologno Monzese"
+  provincia: "MI"
+  indirizzo: "Via Fontanile, 4, Cologno Monzese (MI)"
+  telefono: "02 2538476"
+  sito_originale: "Facebook (nessun sito web)"
+  stato: "demo_prospect"

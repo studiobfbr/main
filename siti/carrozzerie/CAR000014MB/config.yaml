@@ -1,0 +1,10 @@
+cliente:
+  id: "CAR000014MB"
+  nome_attivita: "Carrozzeria La Costa S.n.c."
+  categoria: "carrozzeria"
+  citta: "Meda"
+  provincia: "MB"
+  indirizzo: "Via Goito, 7/9, 20821 Meda (MB)"
+  telefono: "0362 74257"
+  sito_originale: ""
+  stato: "demo_prospect"

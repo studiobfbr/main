@@ -1,0 +1,10 @@
+cliente:
+  id: "RIS000007MB"
+  nome_attivita: "Trattoria Emiliana Amarcord"
+  categoria: "ristorante"
+  citta: "Meda"
+  provincia: "MB"
+  indirizzo: "Via Cristoforo Colombo, 2, 20821 Meda (MB)"
+  telefono: "0362 71370"
+  sito_originale: ""
+  stato: "demo_prospect"

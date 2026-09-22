@@ -1,0 +1,10 @@
+cliente:
+  id: "EST000006MB"
+  nome_attivita: "Centro Estetico Il Girasole"
+  categoria: "estetista"
+  citta: "Cesano Maderno"
+  provincia: "MB"
+  indirizzo: "Via Dante Alighieri, 51, 20811 Cesano Maderno (MB)"
+  telefono: "0362 553893"
+  sito_originale: ""
+  stato: "demo_prospect"

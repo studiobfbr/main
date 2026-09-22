@@ -1,0 +1,10 @@
+cliente:
+  id: "ELE000004MI"
+  nome_attivita: "Zampaglione Samuele Impianti Elettrici"
+  categoria: "elettricista"
+  citta: "Sesto San Giovanni"
+  provincia: "MI"
+  indirizzo: "Via Tonale, 23, Sesto San Giovanni (MI)"
+  telefono: ""
+  sito_originale: ""
+  stato: "demo_prospect"

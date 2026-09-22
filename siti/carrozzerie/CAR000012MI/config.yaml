@@ -1,0 +1,10 @@
+cliente:
+  id: "CAR000012MI"
+  nome_attivita: "Carrozzeria New Car Snc"
+  categoria: "carrozzeria"
+  citta: "Cinisello Balsamo"
+  provincia: "MI"
+  indirizzo: "Via Prati Giovanni, 13, Cinisello Balsamo (MI)"
+  telefono: ""
+  sito_originale: ""
+  stato: "demo_prospect"
