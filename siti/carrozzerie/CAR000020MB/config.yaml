@@ -1,0 +1,10 @@
+cliente:
+  id: "CAR000020MB"
+  nome_attivita: "Union Garage Biassono"
+  categoria: "carrozzeria"
+  citta: "Biassono"
+  provincia: "MB"
+  indirizzo: "Via dei Gelsi, 5, 20853 Biassono (MB)"
+  telefono: "366 3556970"
+  sito_originale: ""
+  stato: "demo_prospect"

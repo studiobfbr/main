@@ -1,0 +1,10 @@
+cliente:
+  id: "RIS000010MB"
+  nome_attivita: "Gusto Superiore"
+  categoria: "ristorante"
+  citta: "Arcore"
+  provincia: "MB"
+  indirizzo: "Piazza Sandro Pertini, 23, 20862 Arcore (MB)"
+  telefono: "039 6772423"
+  sito_originale: ""
+  stato: "demo_prospect"

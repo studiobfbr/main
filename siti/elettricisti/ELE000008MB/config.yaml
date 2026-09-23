@@ -1,0 +1,10 @@
+cliente:
+  id: "ELE000008MB"
+  nome_attivita: "Elettrozeta S.n.c. di Zorloni Nicola e C."
+  categoria: "elettricista"
+  citta: "Giussano"
+  provincia: "MB"
+  indirizzo: "Via Ruggero Leoncavallo, 23, 20833 Giussano (MB)"
+  telefono: "0362 861013"
+  sito_originale: ""
+  stato: "demo_prospect"

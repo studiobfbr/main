@@ -1,0 +1,10 @@
+cliente:
+  id: "ELE000009MB"
+  nome_attivita: "Fidelity Service Pronto Intervento Elettricista 24 Ore"
+  categoria: "elettricista"
+  citta: "Concorezzo"
+  provincia: "MB"
+  indirizzo: "Via Dante Alighieri, 62, 20863 Concorezzo (MB)"
+  telefono: "331 5436845"
+  sito_originale: ""
+  stato: "demo_prospect"

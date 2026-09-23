@@ -1,0 +1,10 @@
+cliente:
+  id: "BAR000006MB"
+  nome_attivita: "Trattoria Corona"
+  categoria: "bar"
+  citta: "Biassono"
+  provincia: "MB"
+  indirizzo: "Via Manzoni, 30, 20853 Biassono (MB)"
+  telefono: "039 2260493"
+  sito_originale: ""
+  stato: "demo_prospect"

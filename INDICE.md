@@ -56,5 +56,25 @@ Aggiornato da Claude. Le fasi si cambiano nell.Excel, non qui. Schema codici: ve
 | IDR000006MB | Idrotecno di Drago Paolo Virginio | idraulico | Cesano Maderno | in_attesa_approvazione | siti/idraulici/IDR000006MB |
 | PAR000007MB | Lavezzari Tiziano Parrucchiere | parrucchiere | Nova Milanese | in_attesa_approvazione | siti/parrucchieri/PAR000007MB |
 | EST000006MB | Centro Estetico Il Girasole | estetista | Cesano Maderno | in_attesa_approvazione | siti/estetisti/EST000006MB |
+| RIS000009MB | Spacca Napoli | ristorante | Arcore | in_attesa_approvazione | siti/ristoranti/RIS000009MB |
+| RIS000010MB | Gusto Superiore | ristorante | Arcore | in_attesa_approvazione | siti/ristoranti/RIS000010MB |
+| BAR000004MB | Pasticceria Caffetteria La Nuova Due Più | bar | Arcore | in_attesa_approvazione | siti/bar/BAR000004MB |
+| CAR000016MB | Carrozzeria Binda S.n.c. | carrozzeria | Giussano | in_attesa_approvazione | siti/carrozzerie/CAR000016MB |
+| CAR000017MB | Galimberti Angelo S.n.c. | carrozzeria | Giussano | in_attesa_approvazione | siti/carrozzerie/CAR000017MB |
+| CAR000018MB | Carrozzeria Limbiatese S.n.c. | carrozzeria | Limbiate | in_attesa_approvazione | siti/carrozzerie/CAR000018MB |
+| ELE000007MB | Barni Impianti Elettrici di Barni Dario | elettricista | Giussano | in_attesa_approvazione | siti/elettricisti/ELE000007MB |
+| ELE000008MB | Elettrozeta S.n.c. di Zorloni Nicola e C. | elettricista | Giussano | in_attesa_approvazione | siti/elettricisti/ELE000008MB |
+| IDR000007MB | Biesse di Bozzon Stefano | idraulico | Carate Brianza | in_attesa_approvazione | siti/idraulici/IDR000007MB |
+| EST000007MB | Ely Estetica | estetista | Giussano | in_attesa_approvazione | siti/estetisti/EST000007MB |
+| RIS000011MB | Bella Napoli | ristorante | Muggiò | in_attesa_approvazione | siti/ristoranti/RIS000011MB |
+| BAR000005MB | Caffè del Centro di Cavallo Antonello | bar | Biassono | in_attesa_approvazione | siti/bar/BAR000005MB |
+| BAR000006MB | Trattoria Corona | bar | Biassono | in_attesa_approvazione | siti/bar/BAR000006MB |
+| CAR000019MB | Carzeta Service Sas | carrozzeria | Villasanta | in_attesa_approvazione | siti/carrozzerie/CAR000019MB |
+| CAR000020MB | Union Garage Biassono | carrozzeria | Biassono | in_attesa_approvazione | siti/carrozzerie/CAR000020MB |
+| ELE000009MB | Fidelity Service Pronto Intervento Elettricista 24 Ore | elettricista | Concorezzo | in_attesa_approvazione | siti/elettricisti/ELE000009MB |
+| IDR000008MB | Blindoserr Idraulico Pronto Intervento | idraulico | Agrate Brianza | in_attesa_approvazione | siti/idraulici/IDR000008MB |
+| PAR000008MB | Franca e Paola Acconciature di Marelli | parrucchiere | Barlassina | in_attesa_approvazione | siti/parrucchieri/PAR000008MB |
+| EST000008MB | NIRVANA Centro Estetico e Solarium | estetista | Lentate sul Seveso | in_attesa_approvazione | siti/estetisti/EST000008MB |
+| EST000009MB | Estetica Effedi di D'Amore Federica | estetista | Lentate sul Seveso | in_attesa_approvazione | siti/estetisti/EST000009MB |
 
-Totale attività: 53
+Totale attività: 73

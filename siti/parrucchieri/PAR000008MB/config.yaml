@@ -1,0 +1,10 @@
+cliente:
+  id: "PAR000008MB"
+  nome_attivita: "Franca e Paola Acconciature di Marelli"
+  categoria: "parrucchiere"
+  citta: "Barlassina"
+  provincia: "MB"
+  indirizzo: "Corso Milano, 62, 20030 Barlassina (MB)"
+  telefono: "0362 561506"
+  sito_originale: ""
+  stato: "demo_prospect"

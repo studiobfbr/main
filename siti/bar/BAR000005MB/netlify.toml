@@ -1,0 +1,5 @@
+# Sito statico, nessuna build
+[build]
+  command = ""
+  publish = "."
+  functions = ""

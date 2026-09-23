@@ -1,0 +1,10 @@
+cliente:
+  id: "BAR000004MB"
+  nome_attivita: "Pasticceria Caffetteria La Nuova Due Più"
+  categoria: "bar"
+  citta: "Arcore"
+  provincia: "MB"
+  indirizzo: "Via Isonzo, 4, 20862 Arcore (MB)"
+  telefono: "039 6013977"
+  sito_originale: ""
+  stato: "demo_prospect"

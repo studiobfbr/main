@@ -1,0 +1,10 @@
+cliente:
+  id: "CAR000017MB"
+  nome_attivita: "Galimberti Angelo S.n.c."
+  categoria: "carrozzeria"
+  citta: "Giussano"
+  provincia: "MB"
+  indirizzo: "Via 4 Novembre, 123, 20833 Giussano (MB)"
+  telefono: "0362 862360"
+  sito_originale: ""
+  stato: "demo_prospect"

@@ -1,0 +1,10 @@
+cliente:
+  id: "CAR000018MB"
+  nome_attivita: "Carrozzeria Limbiatese S.n.c."
+  categoria: "carrozzeria"
+  citta: "Limbiate"
+  provincia: "MB"
+  indirizzo: "Via Falterona, 4, 20812 Limbiate (MB)"
+  telefono: "02 9964125"
+  sito_originale: ""
+  stato: "demo_prospect"

@@ -1,0 +1,10 @@
+cliente:
+  id: "IDR000007MB"
+  nome_attivita: "Biesse di Bozzon Stefano"
+  categoria: "idraulico"
+  citta: "Carate Brianza"
+  provincia: "MB"
+  indirizzo: "Via Leonardo da Vinci, 5, 20841 Carate Brianza (MB)"
+  telefono: "0362 905803"
+  sito_originale: ""
+  stato: "demo_prospect"

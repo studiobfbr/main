@@ -1,0 +1,10 @@
+cliente:
+  id: "RIS000009MB"
+  nome_attivita: "Spacca Napoli"
+  categoria: "ristorante"
+  citta: "Arcore"
+  provincia: "MB"
+  indirizzo: "Via Piave, 26, 20862 Arcore (MB)"
+  telefono: "039 6013964"
+  sito_originale: ""
+  stato: "demo_prospect"

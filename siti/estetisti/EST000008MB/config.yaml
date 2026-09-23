@@ -1,0 +1,10 @@
+cliente:
+  id: "EST000008MB"
+  nome_attivita: "NIRVANA Centro Estetico e Solarium"
+  categoria: "estetista"
+  citta: "Lentate sul Seveso"
+  provincia: "MB"
+  indirizzo: "Via Roma, 28, 20825 Lentate sul Seveso (MB)"
+  telefono: "0362 557614"
+  sito_originale: ""
+  stato: "demo_prospect"

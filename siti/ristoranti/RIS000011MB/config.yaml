@@ -1,0 +1,10 @@
+cliente:
+  id: "RIS000011MB"
+  nome_attivita: "Bella Napoli"
+  categoria: "ristorante"
+  citta: "Muggiò"
+  provincia: "MB"
+  indirizzo: "Via Mazzini Giuseppe, 19, 20835 Muggiò (MB)"
+  telefono: "039 792616"
+  sito_originale: ""
+  stato: "demo_prospect"

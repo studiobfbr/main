@@ -1,0 +1,10 @@
+cliente:
+  id: "ELE000007MB"
+  nome_attivita: "Barni Impianti Elettrici di Barni Dario"
+  categoria: "elettricista"
+  citta: "Giussano"
+  provincia: "MB"
+  indirizzo: "Via Pizzo Scalino, 2, 20833 Giussano (MB)"
+  telefono: "0362 687548"
+  sito_originale: ""
+  stato: "demo_prospect"

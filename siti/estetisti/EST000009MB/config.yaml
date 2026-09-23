@@ -1,0 +1,10 @@
+cliente:
+  id: "EST000009MB"
+  nome_attivita: "Estetica Effedi di D'Amore Federica"
+  categoria: "estetista"
+  citta: "Lentate sul Seveso"
+  provincia: "MB"
+  indirizzo: "Via Roma, 34, 20823 Lentate sul Seveso (MB)"
+  telefono: "347 3876000"
+  sito_originale: ""
+  stato: "demo_prospect"

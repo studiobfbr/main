@@ -1,0 +1,10 @@
+cliente:
+  id: "IDR000008MB"
+  nome_attivita: "Blindoserr Idraulico Pronto Intervento"
+  categoria: "idraulico"
+  citta: "Agrate Brianza"
+  provincia: "MB"
+  indirizzo: "Via Lecco, 66, 20864 Agrate Brianza (MB)"
+  telefono: "393 9402025"
+  sito_originale: ""
+  stato: "demo_prospect"

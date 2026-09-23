@@ -1,0 +1,10 @@
+cliente:
+  id: "EST000007MB"
+  nome_attivita: "Ely Estetica"
+  categoria: "estetista"
+  citta: "Giussano"
+  provincia: "MB"
+  indirizzo: "Piazza Cadorna, 4, 20833 Giussano (MB)"
+  telefono: "0362 1821810"
+  sito_originale: ""
+  stato: "demo_prospect"

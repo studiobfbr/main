@@ -1,0 +1,10 @@
+cliente:
+  id: "CAR000019MB"
+  nome_attivita: "Carzeta Service Sas"
+  categoria: "carrozzeria"
+  citta: "Villasanta"
+  provincia: "MB"
+  indirizzo: "Strada Dei Boschi, 13, 20852 Villasanta (MB)"
+  telefono: "039 2052126"
+  sito_originale: ""
+  stato: "demo_prospect"

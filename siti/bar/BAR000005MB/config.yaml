@@ -1,0 +1,10 @@
+cliente:
+  id: "BAR000005MB"
+  nome_attivita: "Caffè del Centro di Cavallo Antonello"
+  categoria: "bar"
+  citta: "Biassono"
+  provincia: "MB"
+  indirizzo: "Via San Martino, 8, 20853 Biassono (MB)"
+  telefono: "039 2753486"
+  sito_originale: ""
+  stato: "demo_prospect"
