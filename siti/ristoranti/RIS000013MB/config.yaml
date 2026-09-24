@@ -1,0 +1,10 @@
+cliente:
+  id: "RIS000013MB"
+  nome_attivita: "La Fabbrica dei Sapori"
+  categoria: "ristorante"
+  citta: "Bovisio Masciago"
+  provincia: "MB"
+  indirizzo: "Via Nazionale dei Giovi, 16 (ingresso Via Stelvio, 10), 20813 Bovisio Masciago (MB)"
+  telefono: "0362 594559"
+  sito_originale: ""
+  stato: "demo_prospect"

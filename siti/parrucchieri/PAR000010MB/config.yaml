@@ -1,0 +1,10 @@
+cliente:
+  id: "PAR000010MB"
+  nome_attivita: "Monia di Stucchi Monia"
+  categoria: "parrucchiere"
+  citta: "Bernareggio"
+  provincia: "MB"
+  indirizzo: "Via Franzolino Prinetti, 30, 20881 Bernareggio (MB)"
+  telefono: "039 6900297"
+  sito_originale: ""
+  stato: "demo_prospect"

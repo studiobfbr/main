@@ -1,0 +1,10 @@
+cliente:
+  id: "IDR000009MB"
+  nome_attivita: "Termoidraulica S.n.c. di Pinto Giuseppe e C."
+  categoria: "idraulico"
+  citta: "Bovisio Masciago"
+  provincia: "MB"
+  indirizzo: "Via Comasinella, 58, 20813 Bovisio Masciago (MB)"
+  telefono: "0362 591233"
+  sito_originale: ""
+  stato: "demo_prospect"

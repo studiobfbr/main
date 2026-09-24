@@ -1,0 +1,10 @@
+cliente:
+  id: "RIS000012MB"
+  nome_attivita: "Trattoria Pizzeria dal Bergomi"
+  categoria: "ristorante"
+  citta: "Varedo"
+  provincia: "MB"
+  indirizzo: "Viale Europa, 11, 20814 Varedo (MB)"
+  telefono: "0362 1828850"
+  sito_originale: ""
+  stato: "demo_prospect"

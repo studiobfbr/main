@@ -1,0 +1,10 @@
+cliente:
+  id: "CAR000021MB"
+  nome_attivita: "Carrozzeria D'Angelo Santo"
+  categoria: "carrozzeria"
+  citta: "Bernareggio"
+  provincia: "MB"
+  indirizzo: "Viale dell'Artigianato, 2/2, 20881 Bernareggio (MB)"
+  telefono: "039 514299"
+  sito_originale: ""
+  stato: "demo_prospect"

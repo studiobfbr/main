@@ -1,0 +1,10 @@
+cliente:
+  id: "EST000010MB"
+  nome_attivita: "Centro Estetico Luisa di Cosso Luisa"
+  categoria: "estetista"
+  citta: "Bernareggio"
+  provincia: "MB"
+  indirizzo: "Via Franzolino Prinetti, 34, 20881 Bernareggio (MB)"
+  telefono: "039 6902889"
+  sito_originale: ""
+  stato: "demo_prospect"

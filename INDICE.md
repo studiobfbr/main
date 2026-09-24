@@ -76,5 +76,15 @@ Aggiornato da Claude. Le fasi si cambiano nell.Excel, non qui. Schema codici: ve
 | PAR000008MB | Franca e Paola Acconciature di Marelli | parrucchiere | Barlassina | in_attesa_approvazione | siti/parrucchieri/PAR000008MB |
 | EST000008MB | NIRVANA Centro Estetico e Solarium | estetista | Lentate sul Seveso | in_attesa_approvazione | siti/estetisti/EST000008MB |
 | EST000009MB | Estetica Effedi di D'Amore Federica | estetista | Lentate sul Seveso | in_attesa_approvazione | siti/estetisti/EST000009MB |
+| RIS000012MB | Trattoria Pizzeria dal Bergomi | ristorante | Varedo | in_attesa_approvazione | siti/ristoranti/RIS000012MB |
+| RIS000013MB | La Fabbrica dei Sapori | ristorante | Bovisio Masciago | in_attesa_approvazione | siti/ristoranti/RIS000013MB |
+| BAR000007MB | I Portici di Moioli Lucia & C. S.n.c. | bar | Besana in Brianza | in_attesa_approvazione | siti/bar/BAR000007MB |
+| CAR000021MB | Carrozzeria D'Angelo Santo | carrozzeria | Bernareggio | in_attesa_approvazione | siti/carrozzerie/CAR000021MB |
+| CAR000022MB | Carrozzeria Ravasi di Ravasi Claudio | carrozzeria | Varedo | in_attesa_approvazione | siti/carrozzerie/CAR000022MB |
+| ELE000010MB | Novara Alberto Carlo | elettricista | Varedo | in_attesa_approvazione | siti/elettricisti/ELE000010MB |
+| IDR000009MB | Termoidraulica S.n.c. di Pinto Giuseppe e C. | idraulico | Bovisio Masciago | in_attesa_approvazione | siti/idraulici/IDR000009MB |
+| PAR000009MB | Casiraghi Rosella | parrucchiere | Bernareggio | in_attesa_approvazione | siti/parrucchieri/PAR000009MB |
+| PAR000010MB | Monia di Stucchi Monia | parrucchiere | Bernareggio | in_attesa_approvazione | siti/parrucchieri/PAR000010MB |
+| EST000010MB | Centro Estetico Luisa di Cosso Luisa | estetista | Bernareggio | in_attesa_approvazione | siti/estetisti/EST000010MB |
 
-Totale attività: 73
+Totale attività: 83

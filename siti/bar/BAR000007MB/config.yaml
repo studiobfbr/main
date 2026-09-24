@@ -1,0 +1,10 @@
+cliente:
+  id: "BAR000007MB"
+  nome_attivita: "I Portici di Moioli Lucia & C. S.n.c."
+  categoria: "bar"
+  citta: "Besana in Brianza"
+  provincia: "MB"
+  indirizzo: "Via Vittorio Emanuele II, 3, 20842 Besana in Brianza (MB)"
+  telefono: "0362 996647"
+  sito_originale: ""
+  stato: "demo_prospect"

@@ -1,0 +1,10 @@
+cliente:
+  id: "PAR000009MB"
+  nome_attivita: "Casiraghi Rosella"
+  categoria: "parrucchiere"
+  citta: "Bernareggio"
+  provincia: "MB"
+  indirizzo: "Via Alessandro Manzoni, 9, 20881 Bernareggio (MB)"
+  telefono: "039 6902428"
+  sito_originale: ""
+  stato: "demo_prospect"

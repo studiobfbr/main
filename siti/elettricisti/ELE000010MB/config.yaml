@@ -1,0 +1,10 @@
+cliente:
+  id: "ELE000010MB"
+  nome_attivita: "Novara Alberto Carlo"
+  categoria: "elettricista"
+  citta: "Varedo"
+  provincia: "MB"
+  indirizzo: "Via Vittorio Veneto, 19, 20814 Varedo (MB)"
+  telefono: "0362 580272"
+  sito_originale: ""
+  stato: "demo_prospect"

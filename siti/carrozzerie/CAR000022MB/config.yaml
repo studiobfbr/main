@@ -1,0 +1,10 @@
+cliente:
+  id: "CAR000022MB"
+  nome_attivita: "Carrozzeria Ravasi di Ravasi Claudio"
+  categoria: "carrozzeria"
+  citta: "Varedo"
+  provincia: "MB"
+  indirizzo: "Via Luigi Settembrini, 13, 20814 Varedo (MB)"
+  telefono: "0362 580164"
+  sito_originale: ""
+  stato: "demo_prospect"
