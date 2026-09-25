@@ -1,0 +1,10 @@
+cliente:
+  id: "ELE000011MB"
+  nome_attivita: "Crippa Giovanni S.n.c. di Mario e Marco Crippa"
+  categoria: "elettricista"
+  citta: "Lesmo"
+  provincia: "MB"
+  indirizzo: "Via Augusto Messa, 32, 20855 Lesmo (MB)"
+  telefono: "039 6980964"
+  sito_originale: ""
+  stato: "demo_prospect"

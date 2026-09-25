@@ -1,0 +1,10 @@
+cliente:
+  id: "EST000011MB"
+  nome_attivita: "Centro Estetico Cristina di Orlandi Cristina"
+  categoria: "estetista"
+  citta: "Sovico"
+  provincia: "MB"
+  indirizzo: "Via Giuseppe Verdi, 14, 20845 Sovico (MB)"
+  telefono: "039 2012640"
+  sito_originale: ""
+  stato: "demo_prospect"

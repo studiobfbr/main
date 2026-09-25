@@ -1,0 +1,10 @@
+cliente:
+  id: "IDR000010MB"
+  nome_attivita: "AG Termoidraulica di Gabriele Aliprandi"
+  categoria: "idraulico"
+  citta: "Sovico"
+  provincia: "MB"
+  indirizzo: "Via Roma, 8, 20845 Sovico (MB)"
+  telefono: "039 2014767"
+  sito_originale: ""
+  stato: "demo_prospect"

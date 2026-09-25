@@ -1,0 +1,10 @@
+cliente:
+  id: "BAR000009MB"
+  nome_attivita: "Bar Manzoni di Mantova Salvatore"
+  categoria: "bar"
+  citta: "Lesmo"
+  provincia: "MB"
+  indirizzo: "Via Alessandro Manzoni, 23, 20855 Lesmo (MB)"
+  telefono: "039 6981471"
+  sito_originale: ""
+  stato: "demo_prospect"

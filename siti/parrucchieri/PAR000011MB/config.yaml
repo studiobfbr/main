@@ -1,0 +1,10 @@
+cliente:
+  id: "PAR000011MB"
+  nome_attivita: "Barone Parrucchieri"
+  categoria: "parrucchiere"
+  citta: "Macherio"
+  provincia: "MB"
+  indirizzo: "Via Visconti di Modrone, 14, 20846 Macherio (MB)"
+  telefono: "039 2014742"
+  sito_originale: ""
+  stato: "demo_prospect"

@@ -1,0 +1,112 @@
+[
+ {
+  "codice": "RIS000014MB",
+  "nome": "Il Desiderio di Sutera Benedetto Andrea",
+  "categoria": "ristorante",
+  "citta": "Sovico",
+  "provincia": "MB",
+  "indirizzo": "Via dei Greppi, 3/5, 20845 Sovico (MB)",
+  "telefono": "377 5140425",
+  "email": "",
+  "sito": ""
+ },
+ {
+  "codice": "BAR000008MB",
+  "nome": "Bar Sport di Frigerio Nicola",
+  "categoria": "bar",
+  "citta": "Lesmo",
+  "provincia": "MB",
+  "indirizzo": "Piazza Garibaldi, 6, 20855 Lesmo (MB)",
+  "telefono": "039 6064435",
+  "email": "",
+  "sito": ""
+ },
+ {
+  "codice": "BAR000009MB",
+  "nome": "Bar Manzoni di Mantova Salvatore",
+  "categoria": "bar",
+  "citta": "Lesmo",
+  "provincia": "MB",
+  "indirizzo": "Via Alessandro Manzoni, 23, 20855 Lesmo (MB)",
+  "telefono": "039 6981471",
+  "email": "",
+  "sito": ""
+ },
+ {
+  "codice": "CAR000023MB",
+  "nome": "Carrozzeria Motta di Motta Roberto",
+  "categoria": "carrozzeria",
+  "citta": "Macherio",
+  "provincia": "MB",
+  "indirizzo": "Via Galileo Galilei, 4, 20846 Macherio (MB)",
+  "telefono": "039 2013964",
+  "email": "",
+  "sito": ""
+ },
+ {
+  "codice": "CAR000024MB",
+  "nome": "Carrozzeria Martinelli Antonio",
+  "categoria": "carrozzeria",
+  "citta": "Lesmo",
+  "provincia": "MB",
+  "indirizzo": "Via Caglio, 6, 20855 Lesmo (MB)",
+  "telefono": "039 6980979",
+  "email": "",
+  "sito": ""
+ },
+ {
+  "codice": "ELE000011MB",
+  "nome": "Crippa Giovanni S.n.c. di Mario e Marco Crippa",
+  "categoria": "elettricista",
+  "citta": "Lesmo",
+  "provincia": "MB",
+  "indirizzo": "Via Augusto Messa, 32, 20855 Lesmo (MB)",
+  "telefono": "039 6980964",
+  "email": "",
+  "sito": ""
+ },
+ {
+  "codice": "IDR000010MB",
+  "nome": "AG Termoidraulica di Gabriele Aliprandi",
+  "categoria": "idraulico",
+  "citta": "Sovico",
+  "provincia": "MB",
+  "indirizzo": "Via Roma, 8, 20845 Sovico (MB)",
+  "telefono": "039 2014767",
+  "email": "",
+  "sito": ""
+ },
+ {
+  "codice": "PAR000011MB",
+  "nome": "Barone Parrucchieri",
+  "categoria": "parrucchiere",
+  "citta": "Macherio",
+  "provincia": "MB",
+  "indirizzo": "Via Visconti di Modrone, 14, 20846 Macherio (MB)",
+  "telefono": "039 2014742",
+  "email": "",
+  "sito": ""
+ },
+ {
+  "codice": "PAR000012MB",
+  "nome": "Segantin Gianluca Parrucchiere",
+  "categoria": "parrucchiere",
+  "citta": "Macherio",
+  "provincia": "MB",
+  "indirizzo": "Via Italia, 34/36, 20846 Macherio (MB)",
+  "telefono": "039 2011408",
+  "email": "",
+  "sito": ""
+ },
+ {
+  "codice": "EST000011MB",
+  "nome": "Centro Estetico Cristina di Orlandi Cristina",
+  "categoria": "estetista",
+  "citta": "Sovico",
+  "provincia": "MB",
+  "indirizzo": "Via Giuseppe Verdi, 14, 20845 Sovico (MB)",
+  "telefono": "039 2012640",
+  "email": "",
+  "sito": ""
+ }
+]

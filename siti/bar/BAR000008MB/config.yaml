@@ -1,0 +1,10 @@
+cliente:
+  id: "BAR000008MB"
+  nome_attivita: "Bar Sport di Frigerio Nicola"
+  categoria: "bar"
+  citta: "Lesmo"
+  provincia: "MB"
+  indirizzo: "Piazza Garibaldi, 6, 20855 Lesmo (MB)"
+  telefono: "039 6064435"
+  sito_originale: ""
+  stato: "demo_prospect"

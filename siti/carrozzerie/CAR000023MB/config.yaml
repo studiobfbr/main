@@ -1,0 +1,10 @@
+cliente:
+  id: "CAR000023MB"
+  nome_attivita: "Carrozzeria Motta di Motta Roberto"
+  categoria: "carrozzeria"
+  citta: "Macherio"
+  provincia: "MB"
+  indirizzo: "Via Galileo Galilei, 4, 20846 Macherio (MB)"
+  telefono: "039 2013964"
+  sito_originale: ""
+  stato: "demo_prospect"

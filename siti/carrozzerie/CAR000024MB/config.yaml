@@ -1,0 +1,10 @@
+cliente:
+  id: "CAR000024MB"
+  nome_attivita: "Carrozzeria Martinelli Antonio"
+  categoria: "carrozzeria"
+  citta: "Lesmo"
+  provincia: "MB"
+  indirizzo: "Via Caglio, 6, 20855 Lesmo (MB)"
+  telefono: "039 6980979"
+  sito_originale: ""
+  stato: "demo_prospect"

@@ -1,0 +1,10 @@
+cliente:
+  id: "RIS000014MB"
+  nome_attivita: "Il Desiderio di Sutera Benedetto Andrea"
+  categoria: "ristorante"
+  citta: "Sovico"
+  provincia: "MB"
+  indirizzo: "Via dei Greppi, 3/5, 20845 Sovico (MB)"
+  telefono: "377 5140425"
+  sito_originale: ""
+  stato: "demo_prospect"

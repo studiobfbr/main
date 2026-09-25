@@ -1,0 +1,10 @@
+cliente:
+  id: "PAR000012MB"
+  nome_attivita: "Segantin Gianluca Parrucchiere"
+  categoria: "parrucchiere"
+  citta: "Macherio"
+  provincia: "MB"
+  indirizzo: "Via Italia, 34/36, 20846 Macherio (MB)"
+  telefono: "039 2011408"
+  sito_originale: ""
+  stato: "demo_prospect"

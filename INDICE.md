@@ -86,5 +86,15 @@ Aggiornato da Claude. Le fasi si cambiano nell.Excel, non qui. Schema codici: ve
 | PAR000009MB | Casiraghi Rosella | parrucchiere | Bernareggio | in_attesa_approvazione | siti/parrucchieri/PAR000009MB |
 | PAR000010MB | Monia di Stucchi Monia | parrucchiere | Bernareggio | in_attesa_approvazione | siti/parrucchieri/PAR000010MB |
 | EST000010MB | Centro Estetico Luisa di Cosso Luisa | estetista | Bernareggio | in_attesa_approvazione | siti/estetisti/EST000010MB |
+| RIS000014MB | Il Desiderio di Sutera Benedetto Andrea | ristorante | Sovico | in_attesa_approvazione | siti/ristoranti/RIS000014MB |
+| BAR000008MB | Bar Sport di Frigerio Nicola | bar | Lesmo | in_attesa_approvazione | siti/bar/BAR000008MB |
+| BAR000009MB | Bar Manzoni di Mantova Salvatore | bar | Lesmo | in_attesa_approvazione | siti/bar/BAR000009MB |
+| CAR000023MB | Carrozzeria Motta di Motta Roberto | carrozzeria | Macherio | in_attesa_approvazione | siti/carrozzerie/CAR000023MB |
+| CAR000024MB | Carrozzeria Martinelli Antonio | carrozzeria | Lesmo | in_attesa_approvazione | siti/carrozzerie/CAR000024MB |
+| ELE000011MB | Crippa Giovanni S.n.c. di Mario e Marco Crippa | elettricista | Lesmo | in_attesa_approvazione | siti/elettricisti/ELE000011MB |
+| IDR000010MB | AG Termoidraulica di Gabriele Aliprandi | idraulico | Sovico | in_attesa_approvazione | siti/idraulici/IDR000010MB |
+| PAR000011MB | Barone Parrucchieri | parrucchiere | Macherio | in_attesa_approvazione | siti/parrucchieri/PAR000011MB |
+| PAR000012MB | Segantin Gianluca Parrucchiere | parrucchiere | Macherio | in_attesa_approvazione | siti/parrucchieri/PAR000012MB |
+| EST000011MB | Centro Estetico Cristina di Orlandi Cristina | estetista | Sovico | in_attesa_approvazione | siti/estetisti/EST000011MB |
 
-Totale attività: 83
+Totale attività: 93
