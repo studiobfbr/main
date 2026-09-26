@@ -1,0 +1,10 @@
+cliente:
+  id: "BAR000010MB"
+  nome_attivita: "Bar Caffetteria C'Era Una Volta di Marco Marolo"
+  categoria: "bar"
+  citta: "Carnate"
+  provincia: "MB"
+  indirizzo: "Via Alessandro Volta, 8, 20866 Carnate (MB)"
+  telefono: "346 4037374"
+  sito_originale: ""
+  stato: "demo_prospect"

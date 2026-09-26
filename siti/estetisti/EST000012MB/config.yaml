@@ -1,0 +1,10 @@
+cliente:
+  id: "EST000012MB"
+  nome_attivita: "Fiorenza Centro Estetico"
+  categoria: "estetista"
+  citta: "Verano Brianza"
+  provincia: "MB"
+  indirizzo: "Via Mario Preda, 11/A, 20843 Verano Brianza (MB)"
+  telefono: "0362 905577"
+  sito_originale: ""
+  stato: "demo_prospect"

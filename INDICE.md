@@ -96,5 +96,15 @@ Aggiornato da Claude. Le fasi si cambiano nell.Excel, non qui. Schema codici: ve
 | PAR000011MB | Barone Parrucchieri | parrucchiere | Macherio | in_attesa_approvazione | siti/parrucchieri/PAR000011MB |
 | PAR000012MB | Segantin Gianluca Parrucchiere | parrucchiere | Macherio | in_attesa_approvazione | siti/parrucchieri/PAR000012MB |
 | EST000011MB | Centro Estetico Cristina di Orlandi Cristina | estetista | Sovico | in_attesa_approvazione | siti/estetisti/EST000011MB |
+| RIS000015MB | Ristorante Trattoria Il Castello | ristorante | Carnate | in_attesa_approvazione | siti/ristoranti/RIS000015MB |
+| BAR000010MB | Bar Caffetteria C'Era Una Volta di Marco Marolo | bar | Carnate | in_attesa_approvazione | siti/bar/BAR000010MB |
+| BAR000011MB | Bar Tesoro | bar | Carnate | in_attesa_approvazione | siti/bar/BAR000011MB |
+| CAR000025MB | Carrozzeria Arcorese S.n.c. di Villa Giuseppe Luigi e C. | carrozzeria | Usmate Velate | in_attesa_approvazione | siti/carrozzerie/CAR000025MB |
+| ELE000012MB | Efferre Impianti S.a.s. di Ferrario Gian Pietro & C. | elettricista | Albiate | in_attesa_approvazione | siti/elettricisti/ELE000012MB |
+| ELE000013MB | Mag Impianti di Tucci Michele | elettricista | Triuggio | in_attesa_approvazione | siti/elettricisti/ELE000013MB |
+| IDR000011MB | Idraulica Sala S.r.l.s. | idraulico | Triuggio | in_attesa_approvazione | siti/idraulici/IDR000011MB |
+| PAR000013MB | Io Donna Parrucchieri | parrucchiere | Verano Brianza | in_attesa_approvazione | siti/parrucchieri/PAR000013MB |
+| EST000012MB | Fiorenza Centro Estetico | estetista | Verano Brianza | in_attesa_approvazione | siti/estetisti/EST000012MB |
+| RIS000016MB | Trattoria Vecchia Brianza | ristorante | Albiate | in_attesa_approvazione | siti/ristoranti/RIS000016MB |
 
-Totale attività: 93
+Totale attività: 103

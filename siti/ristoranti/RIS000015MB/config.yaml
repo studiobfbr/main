@@ -1,0 +1,10 @@
+cliente:
+  id: "RIS000015MB"
+  nome_attivita: "Ristorante Trattoria Il Castello"
+  categoria: "ristorante"
+  citta: "Carnate"
+  provincia: "MB"
+  indirizzo: "Via Camperia, 10, 20866 Carnate (MB)"
+  telefono: "039 671317"
+  sito_originale: ""
+  stato: "demo_prospect"

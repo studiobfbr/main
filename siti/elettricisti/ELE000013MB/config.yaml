@@ -1,0 +1,10 @@
+cliente:
+  id: "ELE000013MB"
+  nome_attivita: "Mag Impianti di Tucci Michele"
+  categoria: "elettricista"
+  citta: "Triuggio"
+  provincia: "MB"
+  indirizzo: "Via San Francesco, 8/D, 20844 Triuggio (MB)"
+  telefono: "0362 915682"
+  sito_originale: ""
+  stato: "demo_prospect"

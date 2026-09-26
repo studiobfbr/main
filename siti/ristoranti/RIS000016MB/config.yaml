@@ -1,0 +1,10 @@
+cliente:
+  id: "RIS000016MB"
+  nome_attivita: "Trattoria Vecchia Brianza"
+  categoria: "ristorante"
+  citta: "Albiate"
+  provincia: "MB"
+  indirizzo: "Via Guglielmo Marconi, 17, 20847 Albiate (MB)"
+  telefono: "0362 913308"
+  sito_originale: ""
+  stato: "demo_prospect"

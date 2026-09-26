@@ -1,0 +1,10 @@
+cliente:
+  id: "PAR000013MB"
+  nome_attivita: "Io Donna Parrucchieri"
+  categoria: "parrucchiere"
+  citta: "Verano Brianza"
+  provincia: "MB"
+  indirizzo: "Via Mario Preda, 9, 20843 Verano Brianza (MB)"
+  telefono: "0362 992991"
+  sito_originale: "Facebook (nessun sito web)"
+  stato: "demo_prospect"

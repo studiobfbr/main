@@ -1,0 +1,10 @@
+cliente:
+  id: "IDR000011MB"
+  nome_attivita: "Idraulica Sala S.r.l.s."
+  categoria: "idraulico"
+  citta: "Triuggio"
+  provincia: "MB"
+  indirizzo: "Via dei Ciliegi, 8, 20844 Triuggio (MB)"
+  telefono: "338 3184490"
+  sito_originale: ""
+  stato: "demo_prospect"

@@ -1,0 +1,10 @@
+cliente:
+  id: "ELE000012MB"
+  nome_attivita: "Efferre Impianti S.a.s. di Ferrario Gian Pietro & C."
+  categoria: "elettricista"
+  citta: "Albiate"
+  provincia: "MB"
+  indirizzo: "Via Sant'Ambrogio, 37, 20847 Albiate (MB)"
+  telefono: "0362 934023"
+  sito_originale: ""
+  stato: "demo_prospect"

@@ -1,0 +1,10 @@
+cliente:
+  id: "CAR000025MB"
+  nome_attivita: "Carrozzeria Arcorese S.n.c. di Villa Giuseppe Luigi e C."
+  categoria: "carrozzeria"
+  citta: "Usmate Velate"
+  provincia: "MB"
+  indirizzo: "Via dell'Artigianato, 20, 20865 Usmate Velate (MB)"
+  telefono: "039 6829080"
+  sito_originale: ""
+  stato: "demo_prospect"

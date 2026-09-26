@@ -1,0 +1,10 @@
+cliente:
+  id: "BAR000011MB"
+  nome_attivita: "Bar Tesoro"
+  categoria: "bar"
+  citta: "Carnate"
+  provincia: "MB"
+  indirizzo: "Via Roma, 2, 20866 Carnate (MB)"
+  telefono: "334 9888740"
+  sito_originale: ""
+  stato: "demo_prospect"
